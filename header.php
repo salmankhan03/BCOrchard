@@ -48,7 +48,7 @@
                 <div class="nav-item dropdown">
                     <a href="philosophy.php" id="our_philosophy" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our Philosophy</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="philosophy.php" id="philosophy" class="dropdown-item">philosophy</a>
+                        <a href="philosophy.php" id="philosophy" class="dropdown-item">Philosophy</a>
                         <a href="our_values.php" id="our_values" class="dropdown-item">Our Values</a>
                         <a href="sustainibility.php" id="sustainibility" class="dropdown-item">Sustainability</a>
                     </div>
