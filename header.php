@@ -76,42 +76,75 @@
 
         if(path === "index.php"){
             const element = document.getElementById('index');
-            element.style.color = '#56c45e';
+            element.style=  `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            ` ;
+
         }else if(path === "our_values.php") {
             const element = document.getElementById('our_values');
             element.style.color = '#56c45e';
             const elements = document.getElementById('our_philosophy');
-            elements.style.color = '#56c45e';
+            elements.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         } else if(path === "philosophy.php") {
             const element = document.getElementById('philosophy');
             element.style.color = '#56c45e';
             const elements = document.getElementById('our_philosophy');
-            elements.style.color = '#56c45e';
+            elements.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         } else if(path === "sustainibility.php") {
             const element = document.getElementById('sustainibility');
             element.style.color = '#56c45e';
             const elements = document.getElementById('our_philosophy');
-            elements.style.color = '#56c45e';
+            elements.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         }
         else if(path === "about_us.php") {
             const element = document.getElementById('about_us');
-            element.style.color = '#56c45e';
+            element.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         }
         else if(path === "product-coco-water.php") {
             const element = document.getElementById('product_coco');
             element.style.color = '#56c45e';
             const elements = document.getElementById('our_product');
-            elements.style.color = '#56c45e';
+            elements.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         }
         else if(path === "product-juice.php") {
             const element = document.getElementById('product-juice');
             element.style.color = '#56c45e';
             const elements = document.getElementById('our_product');
-            elements.style.color = '#56c45e';
+            elements.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         }
         else if(path === "contact-us.php") {
             const element = document.getElementById('contact-us');
-            element.style.color = '#56c45e';
+            element.style = `
+                height: 2px;
+                color: #56c45e;
+                border-bottom: 2px solid #56c45e;
+            `;
         }
 
     </script>

@@ -74,12 +74,44 @@
 
 .navbar .dropdown-toggle::after {
     border: none;
-    content: "\f107";
+    content: "";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
     display: contents;
+}
+
+.navbar-nav .nav-link {
+  position: relative;
+}
+
+.navbar-nav .nav-link::before {
+  content: "";
+  position: absolute;
+  margin-right: 28px;
+  top: 56px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--primary); /* Change this to the desired color */
+  transition: width 0.3s;
+}
+
+.navbar-nav .nav-link:hover::before {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav .nav-link::before {
+    content: "";
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 0;
+    height: 0px;
+    background-color: none;
+  }
 }
 
 @media (max-width: 991.98px) {
