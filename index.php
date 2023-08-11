@@ -78,7 +78,7 @@
 
 <div class="home-section">
   <div class="overlay-content">
-    <h1 class="homepageTitle">Taste of Nature</h1>
+    <h1 class="homepageTitle h1Pere">Taste of Nature</h1>
     <p class="homepageDesc">Nothing more, Nothing less</p>
     <button href="#" class="btn homeBtn">Shop Now</button>
   </div>
@@ -531,10 +531,10 @@ function setREVStartSize(e) {
                                                                                                 <div
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <span
-                                                                                                        class="homepageGridTitle"
+                                                                                                        class="homepageGridTitle h4Pere qodef-m-caption"
                                                                                                         style="font-size: 20px">
                                                                                                         <span
-                                                                                                            class=" qodef--left"></span>
+                                                                                                            class="qodef-caption-line qodef--left"></span>
                                                                                                             Values
                                                                                                     </span>
                                                                                                     <h2 class="homepageTitle"
@@ -584,10 +584,10 @@ function setREVStartSize(e) {
                                                                                                 <div
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <span
-                                                                                                        class="homepageGridTitle"
+                                                                                                        class="homepageGridTitle h4Pere qodef-m-caption"
                                                                                                         style="font-size: 20px">
                                                                                                         <span
-                                                                                                            class="qodef--left"></span>
+                                                                                                            class="qodef-caption-line qodef--left"></span>
                                                                                                             Product
                                                                                                     </span>
                                                                                                     <h2 class="homepageTitle"
@@ -663,10 +663,10 @@ function setREVStartSize(e) {
                                                                                                 <div
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <span
-                                                                                                        class="homepageGridTitle"
+                                                                                                        class="homepageGridTitle qodef-caption-line"
                                                                                                         style="font-size: 20px">
                                                                                                         <span
-                                                                                                            class="qodef--left"></span>
+                                                                                                            class="qodef-caption-line qodef--left"></span>
                                                                                                             Product
                                                                                                     </span>
                                                                                                     <h2 class="homepageTitle"
@@ -699,10 +699,10 @@ function setREVStartSize(e) {
                                                                                                 <div
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <span
-                                                                                                        class="homepageGridTitle"
+                                                                                                        class="homepageGridTitle h4Pere qodef-m-caption"
                                                                                                         style="font-size: 20px">
                                                                                                         <span
-                                                                                                            class="qodef--left"></span>
+                                                                                                            class="qodef-caption-line qodef--left"></span>
                                                                                                             Mission
                                                                                                     </span>
                                                                                                     <h2 class="homepageTitle"
@@ -735,7 +735,7 @@ function setREVStartSize(e) {
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <h2 class="homepageTitle"
                                                                                                         style="color: #FFFFFF;margin: -5px 0px 0px 0px">
-                                                                                                        Pure, Natureal
+                                                                                                        Pure, Natural
                                                                                                     </h2>
                                                                                                     <h2 class="homepageTitle"
                                                                                                         style="color: #FFFFFF;margin: -5px 0px 0px 0px">

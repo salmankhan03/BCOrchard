@@ -42,9 +42,9 @@
         <div class="col-sm-12 p-0">
             <div class="image-container">
             <!-- Add your image here -->
-            <img src="https://freshdelmonte.com/wp-content/uploads/2022/02/who-we-are-bg-scaled.jpg" alt="Home Image" class="img-fluid">
+            <img src="img/banner_about.jpg" alt="Home Image" class="img-fluid">
             <!-- Add title and description here -->
-            <div class="image-overlay">
+            <div class="image-overlay-about">
                 <h1 class="imageTitle title">About Us</h1>
                 <p class="imageDesc description">At BC Orchard, we are more than just a group of individuals; we are a family united by
                     a shared passion for excellence.</p>
@@ -54,10 +54,10 @@
         </div>
     </div>
 
-    <div class="container mt-5">
+    <div class="container mt-5  pt-3 mb-5 pb-3">
         <div class="row">
             <div class="col-sm-12">
-                <p class="pereDescTitle homepageTitle description text-center">
+                <p class="pereDescTitle h3Pere homepageTitle description text-center">
                     We believe that every team member plays a vital role
                     in our collective success, and we encourage everyone in our extended family to bring
                     their best self to work every day.

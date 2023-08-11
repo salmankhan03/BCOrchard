@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-  --primary: #56c45e;
+  --primary: #9dca00;
   --secondary: #757575;
   --light: #f3f6f8;
   --dark: #000;
@@ -67,7 +67,6 @@
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
-.navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
   color: var(--primary);
 }
@@ -197,6 +196,15 @@ body, html {
   overflow: hidden; /* Hide overflowing content (title, description) */
 }
 
+.image-overlay-about {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff; /* Change color to match your design */
+}
+
 .image-overlay {
   position: absolute;
   top: 50%;
@@ -232,12 +240,21 @@ body, html {
 @media only screen and (max-width: 768px) {
   .image-overlay {
       position: absolute;
-      top: 5%;
-      left: 1%;
-      transform: translate(0%, 0%);
       text-align: center;
       color: #fff; /* Change color to match your design */
   }
+
+  .image-overlay-about {
+    position: absolute;
+    bottom: 10px;
+    top:0px !important;
+    left: 0%;
+    transform: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff; /* Change color to match your design */
+}
   .imageTitle{
       font-size: 25px;
   }
@@ -272,6 +289,16 @@ body, html {
   }
 }
 
+.juiceButton{
+  background-color: #9dca00 !important;
+  background: #9dca00 !important;
+  border-radius: 27px !important;
+  color: #fff !important;
+  border: 1px solid transparent;
+  padding: 10px 25px !important;
+
+}
+
 
 /* --------------------------------------------------Home page font styling------------------------------------------- */
 
@@ -287,7 +314,68 @@ body, html {
 }
 
 .homepageGridTitle{
-  font-weight: 700;
-  color:#56c45e !important;
+  font-weight: 700 !important;
+  color: var(--primary) !important;
   font-family: 'Georgia', sans-serif !important;
 }
+
+.h1Pere{
+  font-family: 'Georgia', sans-serif !important;
+  font-size: 80px !important;
+  font-style: bold !important;
+  color: #fff !important;
+}
+
+
+@media (max-width: 768px) {
+  .h1Pere{
+    font-family: 'Georgia', sans-serif !important;
+    font-size: 40px !important;
+    font-style: bold !important;
+    color: #fff !important;
+  }
+}
+
+.h2Pere{
+  font-family: 'Georgia', sans-serif !important;
+  font-size: 45px !important;
+  color: black !important;
+}
+
+.h3Pere{
+  font-family: 'Georgia', sans-serif !important;
+  font-size: 25px !important;
+}
+
+.h5Pere{
+  font-family: 'Georgia', sans-serif !important;
+  font-style: bold !important;
+  text-transform: uppercase !important;
+  font-size: 21px !important;
+  color: black !important;
+}
+
+.h4Pere{
+  font-family: 'Georgia', sans-serif !important;
+  text-transform: uppercase !important;
+  font-style: normal !important;
+  font-size: 21px !important;
+  color:  var(--primary) !important;
+}
+
+.h4LeftLine{
+  display: inline-block;
+  height: 2px;
+  background-color: currentColor;
+  vertical-align: middle;
+  width: 34px;
+  color: var(--primary) !important;
+}
+
+.h6Pere{
+  font-family: 'Georgia', sans-serif !important;
+  font-style: italic !important;
+  font-size: 25px !important;
+  color: black !important;
+}
+

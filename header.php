@@ -37,7 +37,7 @@
     <!-- Navbar Start -->
     <nav class="sticky navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0">Logo</h2>
+            <img src="img/logo.png" alt="logo">
         </a>
         <button type="button" class="navbar-toggler me-4 mr-2" style="background: #fff; border: none" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -78,72 +78,72 @@
             const element = document.getElementById('index');
             element.style=  `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             ` ;
 
         }else if(path === "our_values.php") {
             const element = document.getElementById('our_values');
-            element.style.color = '#56c45e';
+            element.style.color = '#9dca00';
             const elements = document.getElementById('our_philosophy');
             elements.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         } else if(path === "philosophy.php") {
             const element = document.getElementById('philosophy');
-            element.style.color = '#56c45e';
+            element.style.color = '#9dca00';
             const elements = document.getElementById('our_philosophy');
             elements.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         } else if(path === "sustainibility.php") {
             const element = document.getElementById('sustainibility');
-            element.style.color = '#56c45e';
+            element.style.color = '#9dca00';
             const elements = document.getElementById('our_philosophy');
             elements.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         }
         else if(path === "about_us.php") {
             const element = document.getElementById('about_us');
             element.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         }
         else if(path === "product-coco-water.php") {
             const element = document.getElementById('product_coco');
-            element.style.color = '#56c45e';
+            element.style.color = '#9dca00';
             const elements = document.getElementById('our_product');
             elements.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         }
         else if(path === "product-juice.php") {
             const element = document.getElementById('product-juice');
-            element.style.color = '#56c45e';
+            element.style.color = '#9dca00';
             const elements = document.getElementById('our_product');
             elements.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         }
         else if(path === "contact-us.php") {
             const element = document.getElementById('contact-us');
             element.style = `
                 height: 2px;
-                color: #56c45e;
-                border-bottom: 2px solid #56c45e;
+                color: #9dca00;
+                border-bottom: 2px solid #9dca00;
             `;
         }
 

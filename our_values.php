@@ -435,7 +435,15 @@ width: 160px!important;
 width: 1530px!important;
 } */
 
+        .elementor-18 .elementor-element.elementor-element-c626130 {
+            padding: 0px 0px 100px 0px !important;
+        }
 
+        @media (max-width: 767px) {
+            .elementor-18 .elementor-element.elementor-element-c626130 {
+                padding: 0px 40px 64px 40px !important;
+            }
+        }
         /* blockquote styles */
         blockquote.wp-block-quote {
             margin: 0px;
@@ -917,6 +925,7 @@ z-index: 1001;
         .cky-notice-btn-wrapper .cky-btn:last-child {
             margin-top: 15px;
         }
+
     </style>
     <style type="text/css">
         .widget .stock_quote {
@@ -959,6 +968,13 @@ z-index: 1001;
         .stock_quote.sqitem.plus,
         .stock_quote.sqitem.plus:hover {
             color: #009D59
+        }
+
+        .elementor-18 .elementor-element.elementor-element-77e442f:not(.elementor-motion-effects-element-type-background), .elementor-18 .elementor-element.elementor-element-77e442f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+            background-color: #575757;
+            background-image: url('img/values/banner_values.jpg') !important;
+            background-position: center center;
+            background-size: cover;
         }
     </style>
 </head>
@@ -1040,7 +1056,7 @@ z-index: 1001;
 
 
 
-                                        <p class="homepageDesc">At BC Orchard, our corporate culture is more than just a set of values. It
+                                        <p class="homepageDesc h3Pere">At BC Orchard, our corporate culture is more than just a set of values. It
                                             is a living,
                                             breathing entity that shapes how we interact, collaborate, and strive for
                                             excellence. It
@@ -1140,7 +1156,7 @@ z-index: 1001;
                                                             }
                                                         </style>
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><a href="#"><img decoding="async" src="https://freshdelmonte.com/wp-content/uploads/2021/11/del-monte-career-excellence.svg" title="del monte career excellence" alt="del monte career excellence logo" loading="lazy" /></a></figure>
+                                                            <figure class="elementor-image-box-img"><a href="#"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career excellence" alt="del monte career excellence logo" loading="lazy" /></a></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title"><a href="#">Excellence</a>
                                                                 </h3>
@@ -1161,7 +1177,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-945d638 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="945d638" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="https://freshdelmonte.com/wp-content/uploads/2021/11/del-monte-career-care-1.svg" title="del monte career care" alt="del monte career care logo" loading="lazy" />
+                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_communication.svg" title="del monte career care" alt="del monte career care logo" loading="lazy" />
                                                             </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Communication</h3>
@@ -1182,7 +1198,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-bac5ef2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="bac5ef2" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="https://freshdelmonte.com/wp-content/uploads/2021/11/del-monte-career-passion.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
+                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Passion</h3>
                                                                 <p class="homepageDesc">We are deeply
@@ -1209,7 +1225,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-d1e5657 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="d1e5657" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="https://freshdelmonte.com/wp-content/uploads/2021/11/del-monte-career-trust.svg" title="del monte career trust" alt="del monte career trust logo" loading="lazy" />
+                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_trust.svg" title="del monte career trust" alt="del monte career trust logo" loading="lazy" />
                                                             </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Trust</h3>
@@ -1230,7 +1246,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-e7a10c8 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="e7a10c8" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="https://freshdelmonte.com/wp-content/uploads/2021/11/del-monte-career-creativity.svg" title="del monte career creativity" alt="del monte career creativity logo" loading="lazy" /></figure>
+                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_respect.svg" title="del monte career creativity" alt="del monte career creativity logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Respect</h3>
                                                                 <p class="homepageDesc">We embrace a

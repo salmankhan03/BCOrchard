@@ -63,10 +63,10 @@
 
             <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" data-version="5.4.8.1">
 
-                <ul>
-                    <li data-index="rs-13" data-transition="slotslide-horizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+            <ul>
+                    <li data-index="rs-13" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                        <img src="https://themetechmount.com/html/nutricare/images/slides/slider-mainbg-001.jpg" alt="" title="mainslider-bg003" width="1920" height="760" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="img/juice/banner_juice.jpg" alt="" title="mainslider-bg003" width="1920" height="760"  data-no-retina>
 
 
 
@@ -74,8 +74,9 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption main-font tp-resizeme homepageTitle" style="color: #fff" id="slide-1-layer-3" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                            Just Juice,<br>period</div>
+                        <div class="tp-caption homepageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                       Just Juice, <br/> Period</div>
+
                     </li>
 
 
@@ -98,15 +99,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                <span class="flaticon flaticon-care"></span>
+                                            <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="homepageTitle">
-                                                <div class="featured-title">
-                                                    <h5>Top Rated</h5>
-                                                </div>
+                                                
                                                 <div class="homepageDesc">
                                                     <p>No preservatives, never from concentrate</p>
-                                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline" href="#">View More</a>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -115,15 +113,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                <span class="flaticon flaticon-care"></span>
+                                            <img src="img/coco/icon_no_sugar.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="homepageTitle">
-                                                <div class="homepageDesc">
-                                                    <h5>Top Rated</h5>
-                                                </div>
+                                                
                                                 <div class="featured-desc">
                                                     <p>A source of Vitamin</p>
-                                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline" href="#">View More</a>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -132,15 +127,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                <span class="flaticon flaticon-healthy"></span>
+                                            <img src="img\coco\icon_calcium_potassium.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                <div class="homepageTitle">
-                                                    <h5>Best Quality</h5>
-                                                </div>
+                                               
                                                 <div class="homepageTitle">
                                                     <p>Gluten, fat, and cholesterol-free</p>
-                                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline" href="#">View More</a>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -149,16 +141,13 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                <span class="flaticon flaticon-healthy-nutrition"></span>
+                                            <img src="img/coco/icon_gluten_free.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                <div class="homepageTitle">
-                                                    <h5>Eat Fresh</h5>
-                                                </div>
+                                                
                                                 <div class="homepageTitle">
                                                     <p>Quality does matter! when we feel good we’re happier, when we are
                                                         happier and we’re more productive.</p>
-                                                    <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline" href="#">View More</a>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -180,36 +169,30 @@
                                 <div class="pr-70 res-991-plr-0">
                                     <!-- section title -->
                                     <div class="section-title clearfix mb-10">
-
-
-
-                                        <div class="title-header">
-
-                                            <h2 class="title homepageTitle">100% Pure fruit squeezed juice.</h2>
+                                        <div class="title-header homepageTitle">
+                                            <h5 class="h4Pere">about Juice</h5>
+                                            <h2 class="title">100% Pure fruit squeezed juice.</h2>
+                                        </div>
+                                        <div class="title-desc homepageDesc">
+                                            <p>BC Orchard promise you a delightful experience with every bottle of our
+                                            fruit juice - it's
+                                            nutritious, delicious, and 100% pure. Our unwavering commitment is to
+                                            deliver
+                                            premium-quality fruit juices that contain nothing but the finest fruit,
+                                            sourced directly
+                                            from our bountiful orchards in the Okanagan Valley and Fraser Valley.</p>
                                         </div>
                                     </div><!-- section title end -->
 
 
                                 </div>
-
-                                <!-- row-->
-
                             </div>
                         </div>
                         <div class="col-lg-6 col-sm-12">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper res-991-mt-50">
                                 <div class="text-right ml-30 res-991-ml-0 ">
-                                    <div class="title-desc homepageDesc">
-                                        <p>BC Orchard promise you a delightful experience with every bottle of our
-                                            fruit juice - it's
-                                            nutritious, delicious, and 100% pure. Our unwavering commitment is to
-                                            deliver
-                                            premium-quality fruit juices that contain nothing but the finest fruit,
-                                            sourced directly
-                                            from our bountiful orchards in the Okanagan Valley and Fraser Valley.
-                                        </p>
-                                    </div>
+                                    <img width="524" height="480" class="img-fluid" src="img/juice/product_juice_1.png" alt="">
                                 </div>
                             </div><!-- ttm_single_image-wrapper end -->
                             <!-- ttm-fid -->

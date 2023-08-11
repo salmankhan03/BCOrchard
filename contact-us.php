@@ -104,11 +104,6 @@
             border-color: #046A38;
         }
 
-        .elementor-element.elementor-button-info .elementor-button {
-            background-color: transparent;
-            color: #046A38;
-        }
-
         .elementor-element.elementor-button-info .elementor-button:hover {
             background: #046A38;
             border-color: #046A38;
@@ -126,17 +121,9 @@
             background-color: #FFEA5A;
         }
 
-        .elementor-element.elementor-button-success .elementor-button {
-            border-color: #FEDD00;
-            background-color: transparent;
-            color: #FEDD00;
-        }
+    
 
-        .elementor-element.elementor-button-success .elementor-button:hover {
-            border-color: #FFEA5A;
-            background-color: #FFEA5A;
-            color: #0F4129;
-        }
+        
 
         .elementor-element.tertiary a {
             font-size: 18px !important;
@@ -864,15 +851,9 @@ z-index: 1001;
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea6699f" data-id="ea6699f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-8f369d9 elementor-widget elementor-widget-text-editor" data-id="8f369d9" data-element_type="widget" data-widget_type="text-editor.default">
-                                                            <div class="elementor-widget-container">
-                                                                <p>get in touch</p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-11ab5ce elementor-widget elementor-widget-heading" data-id="11ab5ce" data-element_type="widget" data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2 class="elementor-heading-title elementor-size-default">
-                                                                    Drop Us A
-                                                                    Line</h2>
+                                                            <div class="elementor-widget-container h4Pere">
+                                                                <span class="h4LeftLine"></span>
+                                                                <span >get in touch</span>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
@@ -920,15 +901,14 @@ z-index: 1001;
                                                                                 <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Country" /></span>
                                                                             </div>
                                                                         </div>
-
-
+                                                                        
                                                                         <div>
                                                                             <span class="wpcf7-form-control-wrap textarea"><textarea name="textarea" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
                                                                         </div>
                                                                         <div class="text-center">
-                                                                            <button class="elementor-button" type="submit" value="book now">Send
+                                                                            <a class="juiceButton" type="submit" value="book now">Send
                                                                                 message<i class="bodoni-icon-arrow-small"></i><br />
-                                                                            </button>
+                                        </a>
                                                                         </div>
                                                                         <div class="wpcf7-response-output" aria-hidden="true"></div>
                                                                     </form>

@@ -1140,6 +1140,12 @@ z-index: 1001;
             height: 600px !important;
         }
 
+        .elementor-2321 .elementor-element.elementor-element-5fdbef9:not(.elementor-motion-effects-element-type-background), .elementor-2321 .elementor-element.elementor-element-5fdbef9 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url('img/philosophy/banner_philosophy.jpg') !important;
+    background-position: center center;
+    background-size: cover;
+}
+
         .jet-custom-nav__mega-sub,
         .jet-custom-nav__sub {
             height: 600px !important;
@@ -1310,6 +1316,22 @@ z-index: 1001;
         .stock_quote.sqitem.plus:hover {
             color: #009D59
         }
+
+        .elementor-2321 .elementor-element.elementor-element-38d46b7:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-2321 .elementor-element.elementor-element-38d46b7 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+            background-image: url('img/philosophy/philosophy_img_left.jpg') !important;
+            background-position: center center;
+            background-size: cover;
+        }
+        .elementor-2321 .elementor-element.elementor-element-69d2cbe:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-2321 .elementor-element.elementor-element-69d2cbe > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+            background-image: url('img/philosophy/philosophy_img_center.jpg') !important;
+            background-position: center center;
+            background-size: cover;
+        }
+        .elementor-2321 .elementor-element.elementor-element-526312b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-2321 .elementor-element.elementor-element-526312b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+            background-image: url('img/philosophy/philosophy_img_right.jpg') !important;
+            background-position: center center;
+            background-size: cover;
+        }
     </style>
 </head>
 
@@ -1422,7 +1444,8 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e60e085 elementor-widget elementor-widget-heading" data-id="e60e085" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <span class="homepageDesc elementor-size-default" style="color: #56c45e">Mission</span>
+                                                        <span class="h4LeftLine"></span>
+                                                        <span class="homepageDesc elementor-size-default h4Pere">Mission</span>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center  elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="d207a17" data-element_type="widget" data-widget_type="heading.default">
@@ -1443,8 +1466,8 @@ z-index: 1001;
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.14.0 - 26-06-2023 */
 .elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container swiper-container-initialized swiper-container-horizontal" dir="ltr">
-			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="polite" style="transform: translate3d(-720px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" role="group" aria-roledescription="slide" aria-label="3 of 3" data-swiper-slide-index="2" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://freshdelmonte.com/wp-content/uploads/2022/02/innovation.jpg" alt="Innovation"><figcaption class="elementor-image-carousel-caption">Innovation</figcaption></figure></div>
-								<div class="swiper-slide swiper-slide-duplicate-next" role="group" aria-roledescription="slide" aria-label="1 of 3" data-swiper-slide-index="0" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://freshdelmonte.com/wp-content/uploads/2022/02/health-and-nutrition.jpg" alt="Health &amp; Nutrition"><figcaption class="elementor-image-carousel-caption">Health &amp; Nutrition</figcaption></figure></div><div class="swiper-slide swiper-slide-prev" role="group" aria-roledescription="slide" aria-label="2 of 3" data-swiper-slide-index="1" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://freshdelmonte.com/wp-content/uploads/2022/02/food-quality-and-safety.jpg" alt="Food Quality &amp; Safety"><figcaption class="elementor-image-carousel-caption">Food Quality &amp; Safety</figcaption></figure></div><div class="swiper-slide swiper-slide-active" role="group" aria-roledescription="slide" aria-label="3 of 3" data-swiper-slide-index="2" style="width: 224px; margin-right: 16px;"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://freshdelmonte.com/wp-content/uploads/2022/02/innovation.jpg" alt="Innovation"><figcaption class="elementor-image-carousel-caption">Innovation</figcaption></figure></div>			<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" role="group" aria-roledescription="slide" aria-label="1 of 3" data-swiper-slide-index="0" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://freshdelmonte.com/wp-content/uploads/2022/02/health-and-nutrition.jpg" alt="Health &amp; Nutrition"><figcaption class="elementor-image-carousel-caption">Health &amp; Nutrition</figcaption></figure></div></div>
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="polite" style="transform: translate3d(-720px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" role="group" aria-roledescription="slide" aria-label="3 of 3" data-swiper-slide-index="2" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="img/philosophy/philosophy_img_right.jpg" alt="Innovation"><figcaption class="elementor-image-carousel-caption"></figcaption></figure></div>
+								<div class="swiper-slide swiper-slide-duplicate-next" role="group" aria-roledescription="slide" aria-label="1 of 3" data-swiper-slide-index="0" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="img/philosophy/philosophy_img_left.jpg" alt="Health &amp; Nutrition"><figcaption class="elementor-image-carousel-caption"></figcaption></figure></div><div class="swiper-slide swiper-slide-prev" role="group" aria-roledescription="slide" aria-label="2 of 3" data-swiper-slide-index="1" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="img/philosophy/philosophy_img_center.jpg" alt="Food Quality &amp; Safety"><figcaption class="elementor-image-carousel-caption"></figcaption></figure></div><div class="swiper-slide swiper-slide-active" role="group" aria-roledescription="slide" aria-label="3 of 3" data-swiper-slide-index="2" style="width: 224px; margin-right: 16px;"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="img/philosophy/philosophy_img_right.jpg" alt="Innovation"><figcaption class="elementor-image-carousel-caption"></figcaption></figure></div>			<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" role="group" aria-roledescription="slide" aria-label="1 of 3" data-swiper-slide-index="0" style="width: 224px; margin-right: 16px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="img/philosophy/philosophy_img_left.jpg" alt="Health &amp; Nutrition"><figcaption class="elementor-image-carousel-caption"></figcaption></figure></div></div>
 							
 									<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" data-bullet-index="0" aria-label="Go to slide 1" role="button"></span><span class="swiper-pagination-bullet" data-bullet-index="1" aria-label="Go to slide 2" role="button"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-bullet-index="2" aria-label="Go to slide 3" role="button" tabindex="0"></span></div>
 									<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1458,7 +1481,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-8607342 elementor-widget elementor-widget-heading" data-id="8607342" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h4 class="elementor-heading-title homepageTitle elementor-size-default">
-                                                            Health & Nutrition</h4>
+                                                            </h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1467,8 +1490,8 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e430471 elementor-widget elementor-widget-heading" data-id="e430471" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h4 class="elementor-heading-title homepageTitle elementor-size-default">Food
-                                                            Quality &amp; Safety</h4>
+                                                        <h4 class="elementor-heading-title homepageTitle elementor-size-default">
+                                                            </h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1478,7 +1501,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-c9500e2 elementor-widget elementor-widget-heading" data-id="c9500e2" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h4 class="elementor-heading-title homepageTitle elementor-size-default">
-                                                            Innovation</h4>
+                                                            </h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1499,7 +1522,8 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-c449ed5 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="c449ed5" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                    <span class="homepageDesc elementor-size-default" style="color: #56c45e">Vision</span>
+                                                    <span class="h4LeftLine"></span>
+                                                    <span class="homepageDesc elementor-size-default h4Pere">Vision</span>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="da5b477" data-element_type="widget" data-widget_type="text-editor.default">

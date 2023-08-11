@@ -29,7 +29,7 @@
 <div class="footer">
 
         <div class="footertitle">©
-            BC Orcard Inc. All Rights Reserved.
+            BC Orchard Inc. All Rights Reserved.
 </div>
   
 </footer>

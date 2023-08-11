@@ -42,10 +42,10 @@
         <div class="col-sm-12 p-0">
             <div class="image-container">
             <!-- Add your image here -->
-            <img src="https://freshdelmonte.com/wp-content/uploads/2022/02/who-we-are-bg-scaled.jpg" alt="Home Image" class="img-fluid">
+            <img src="img/banner_sustainability.jpg" alt="Home Image" class="img-fluid">
             <!-- Add title and description here -->
             <div class="image-overlay">
-                <h1 class="imageTitle title">Sustainability</h1>
+                <h1 class="imageTitle title h1Pere">Sustainability</h1>
                 <p class="imageDesc description">Commitment to a better and greener future</p>
             </div>
             </div>
@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class="container mt-5">
+    <div class="container mt-5 pt-3 mb-5 pb-3" >
         <div class="row">
             <div class="col-sm-12">
                 <p class="pereDescTitle homepageTitle description text-center">
