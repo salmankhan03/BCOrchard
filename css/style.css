@@ -93,7 +93,7 @@
   left: 0;
   width: 0;
   height: 2px;
-  background-color: var(--primary); /* Change this to the desired color */
+  background-color: var(--primary); 
   transition: width 0.3s;
 }
 

@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -46,11 +47,12 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" id="index" class="nav-item nav-link">Home</a>
                 <div class="nav-item dropdown">
-                    <a href="philosophy.php" id="our_philosophy" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our Philosophy</a>
+                    <a href="philosophy.php" id="our_philosophy" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Company</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="philosophy.php" id="philosophy" class="dropdown-item">Philosophy</a>
                         <a href="our_values.php" id="our_values" class="dropdown-item">Our Values</a>
                         <a href="sustainibility.php" id="sustainibility" class="dropdown-item">Sustainability</a>
+                        <a href="about_us.php" id="about_us" class="dropdown-item">About Us</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
@@ -60,9 +62,10 @@
                         <a href="product-coco-water.php" id="product_coco" class="dropdown-item">Coconut</a>
                     </div>
                 </div>
+
                 <!-- <a href="our_values.php" id="our_values" class="nav-item nav-link">Our Values</a>
                 <a href="sustainibility.php" id="sustainibility" class="nav-item nav-link">Sustainability</a> -->
-                <a href="about_us.php" id="about_us" class="nav-item nav-link">About Us</a>
+                
                 <a href="contact-us.php" id="contact-us" class="nav-item nav-link">Contact</a>
                 
             </div>
@@ -74,78 +77,91 @@
         const currentPathLink = window.location.pathname.split("/");
         const path = currentPathLink[currentPathLink.length - 1];
 
-        if(path === "index.php"){
-            const element = document.getElementById('index');
-            element.style=  `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            ` ;
+        const mediaQuery = window.matchMedia("(min-width: 821px)");
 
-        }else if(path === "our_values.php") {
-            const element = document.getElementById('our_values');
-            element.style.color = '#9dca00';
-            const elements = document.getElementById('our_philosophy');
-            elements.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        } else if(path === "philosophy.php") {
-            const element = document.getElementById('philosophy');
-            element.style.color = '#9dca00';
-            const elements = document.getElementById('our_philosophy');
-            elements.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        } else if(path === "sustainibility.php") {
-            const element = document.getElementById('sustainibility');
-            element.style.color = '#9dca00';
-            const elements = document.getElementById('our_philosophy');
-            elements.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
+        function handleScreenChange(event) {
+            if (event.matches) {
+                if(path === "index.php"){
+                const element = document.getElementById('index');
+                element.style=  `
+                    height: 2px;
+                    color: #9dca00;
+                    border-bottom: 2px solid #9dca00;
+                ` ;
+
+                }else if(path === "our_values.php") {
+                    const element = document.getElementById('our_values');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_philosophy');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                } else if(path === "philosophy.php") {
+                    const element = document.getElementById('philosophy');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_philosophy');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                } else if(path === "sustainibility.php") {
+                    const element = document.getElementById('sustainibility');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_philosophy');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                }
+                else if(path === "about_us.php") {
+                    const element = document.getElementById('about_us');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_philosophy');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                }
+                else if(path === "product-coco-water.php") {
+                    const element = document.getElementById('product_coco');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_product');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                }
+                else if(path === "product-juice.php") {
+                    const element = document.getElementById('product-juice');
+                    element.style.color = '#9dca00';
+                    const elements = document.getElementById('our_product');
+                    elements.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                }
+                else if(path === "contact-us.php") {
+                    const element = document.getElementById('contact-us');
+                    element.style = `
+                        height: 2px;
+                        color: #9dca00;
+                        border-bottom: 2px solid #9dca00;
+                    `;
+                }
+            }   
         }
-        else if(path === "about_us.php") {
-            const element = document.getElementById('about_us');
-            element.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        }
-        else if(path === "product-coco-water.php") {
-            const element = document.getElementById('product_coco');
-            element.style.color = '#9dca00';
-            const elements = document.getElementById('our_product');
-            elements.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        }
-        else if(path === "product-juice.php") {
-            const element = document.getElementById('product-juice');
-            element.style.color = '#9dca00';
-            const elements = document.getElementById('our_product');
-            elements.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        }
-        else if(path === "contact-us.php") {
-            const element = document.getElementById('contact-us');
-            element.style = `
-                height: 2px;
-                color: #9dca00;
-                border-bottom: 2px solid #9dca00;
-            `;
-        }
+
+        handleScreenChange(mediaQuery);
+        mediaQuery.addListener(handleScreenChange);
+
+        
 
     </script>
 
@@ -153,6 +169,7 @@
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="lib/wow/wow.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
