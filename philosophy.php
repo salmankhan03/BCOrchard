@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -1355,8 +1356,7 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e1c5d50 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="e1c5d50" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h1 class="elementor-heading-title homepageTitle elementor-size-default">Our
-                                                            Philosphy
+                                                        <h1 class="elementor-heading-title imageTitle elementor-size-default">Our Philosphy
                                                         </h1>
                                                     </div>
                                                 </div>
@@ -1397,8 +1397,8 @@ z-index: 1001;
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-95b7fcf elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="95b7fcf" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container homepageDesc">
-                                                        <p class="homepageDesc">Delivering the Freshness You Deserve</p>
+                                                    <div class="elementor-widget-container homepageBannerDesc">
+                                                        <p class="homepageBannerDesc">Delivering the Freshness You Deserve</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1416,7 +1416,7 @@ z-index: 1001;
 
                             <div class="elementor-element elementor-element-0d2c94e elementor-widget" data-id="0d2c94e" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container pl-2 pr-2">
-                                    <p class="homepageDesc">Established since 2016, BC Orchard strives to become a beacon of healthier
+                                    <p class="homepageDesc pereDesc" style="color: #555 !important">Established since 2016, BC Orchard strives to become a beacon of healthier
                                         choices.
                                         Our dedication to providing natural food products is driven by the belief that
                                         people
@@ -1424,7 +1424,7 @@ z-index: 1001;
                                         Whether
                                         you're looking to rehydrate after a workout or simply seeking a flavorful and
                                         wholesome food option, BC Orchard has got you covered. </p>
-                                    <p class="homepageDesc"><br />We want consumers worldwide to enjoy our fresh, nutritious products.
+                                    <p class="homepageDesc pereDesc" style="color: #555 !important"><br />We want consumers worldwide to enjoy our fresh, nutritious products.
                                         You can find our products stocked on shelves around the world—we sell
                                         globally to retailers, food services companies, and other third parties.</p>
                                 </div>
@@ -1446,6 +1446,7 @@ z-index: 1001;
                                                     <div class="elementor-widget-container">
                                                         <span class="h4LeftLine"></span>
                                                         <span class="homepageDesc elementor-size-default h4Pere">Mission</span>
+                                                        <span class="h4LeftLine"></span>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center  elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="d207a17" data-element_type="widget" data-widget_type="heading.default">
@@ -1524,6 +1525,7 @@ z-index: 1001;
                                                     <div class="elementor-widget-container">
                                                     <span class="h4LeftLine"></span>
                                                     <span class="homepageDesc elementor-size-default h4Pere">Vision</span>
+                                                    <span class="h4LeftLine"></span>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="da5b477" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1532,13 +1534,13 @@ z-index: 1001;
                                                         To be the leading provider of premium quality,</h4>
                                                         <h4 class="homepageTitle text-center elementor-size-default mb-4">
                                                         natural products in British Columbia and beyond.</h4>
-                                                        <p class="homepageDesc">We envision a future where individuals can enjoy flavorful drinks and snacks
+                                                        <p class="homepageDesc pereDesc" style="color: #555 !important" >We envision a future where individuals can enjoy flavorful drinks and snacks
                                                             that not only satisfy their taste buds but also align with their health-conscious lifestyles.
                                                             We aspire to create a diverse range of refreshing and nourishing products that cater to
                                                             various preferences and dietary needs. 
                                                             </p>
 
-                                                        <p class="homepageDesc">Through our unwavering commitment to quality, transparency,
+                                                        <p class="homepageDesc pereDesc" style="color: #555 !important">Through our unwavering commitment to quality, transparency,
                                                             and sustainability, we
                                                             aim to inspire and educate consumers to make informed
                                                             choices that support their

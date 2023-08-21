@@ -46,7 +46,7 @@
             <!-- Add title and description here -->
             <div class="image-overlay-about">
                 <h1 class="imageTitle title">About Us</h1>
-                <p class="imageDesc description">At BC Orchard, we are more than just a group of individuals; we are a family united by
+                <p class="homepageBannerDesc description">At BC Orchard, we are more than just a group of individuals; we are a family united by
                     a shared passion for excellence.</p>
             </div>
             </div>

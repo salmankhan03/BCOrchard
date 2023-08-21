@@ -20,6 +20,32 @@
   color: #000;
 }
 
+.main-menu .navigation > li:hover > a, .main-menu .navigation > li.current > a {
+  color: #9dca00 !important;
+}
+
+.main-menu .navigation > li > ul > li:hover > a {
+  color: #9dca00 !important;
+}
+
+.main-menu .navigation > li > ul > li > a:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0px;
+  border-bottom: 2px solid #9dca00 !important;
+  transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+}
+
+.nav-outer .mobile-nav-toggler {
+  color: #9dca00 !important;
+}
+
 /*** Spinner ***/
 #spinner {
   opacity: 0;
@@ -68,7 +94,7 @@
 }
 
 .navbar .navbar-nav .nav-link.active {
-  color: var(--primary);
+  color: #9dca00;
 }
 
 .navbar .dropdown-toggle::after {
@@ -93,7 +119,7 @@
   left: 0;
   width: 0;
   height: 2px;
-  background-color: var(--primary); 
+  background-color: #9dca00; 
   transition: width 0.3s;
 }
 
@@ -178,7 +204,7 @@
 }
 
 .qodef-masonry-gallery-list .qodef-layout--textual.qodef-mg-item-border .qodef-e-border, .qodef-masonry-gallery-list .qodef-layout--simple.qodef-mg-item-border .qodef-e-border {
-  border: 1px solid var(--primary) !important;
+  border: 1px solid #9dca00 !important;
 }
 
 
@@ -256,6 +282,7 @@ body, html {
     color: #fff; /* Change color to match your design */
 }
   .imageTitle{
+    text-shadow: 0px 2px 2px #fff !important;
       font-size: 25px;
   }
   .imageDesc{
@@ -302,6 +329,12 @@ body, html {
 
 /* --------------------------------------------------Home page font styling------------------------------------------- */
 
+.homepageBannerTitle{
+  font-family: 'Georgia', sans-serif !important;
+  text-shadow: 0px 2px 2px #fff !important;
+  letter-spacing: unset;
+  text-transform: none;
+}
 
 .homepageTitle{
   font-family: 'Georgia', sans-serif !important;
@@ -310,12 +343,18 @@ body, html {
 }
 
 .homepageDesc{
-  font-family: 'Avenir', sans-serif !important;   
+  font-family: 'Avenir', sans-serif !important; 
+}
+
+.homepageBannerDesc{
+  font-family: 'Avenir', sans-serif !important; 
+  color: #fff !important;
+  font-size: 1.5rem;
 }
 
 .homepageGridTitle{
   font-weight: 700 !important;
-  color: var(--primary) !important;
+  color: #9dca00 !important;
   font-family: 'Georgia', sans-serif !important;
 }
 
@@ -360,7 +399,7 @@ body, html {
   text-transform: uppercase !important;
   font-style: normal !important;
   font-size: 21px !important;
-  color:  var(--primary) !important;
+  color:  #9dca00 !important;
 }
 
 .h4LeftLine{
@@ -369,7 +408,7 @@ body, html {
   background-color: currentColor;
   vertical-align: middle;
   width: 34px;
-  color: var(--primary) !important;
+  color: #9dca00 !important;
 }
 
 .h6Pere{

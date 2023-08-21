@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link href="css/style.css" rel="stylesheet">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FG6C7VF9LM"></script>
@@ -996,7 +997,7 @@ z-index: 1001;
                             <div class="elementor-widget-wrap elementor-element-populated">
                                 <div class="elementor-element elementor-element-2dc7802 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="2dc7802" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h1 class="homepageTitle elementor-size-default">Our Values</h1>
+                                        <h1 class="imageTitle elementor-size-default">Our Values</h1>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-1e0c61f elementor-widget elementor-widget-spacer" data-id="1e0c61f" data-element_type="widget" data-widget_type="spacer.default">
@@ -1037,7 +1038,7 @@ z-index: 1001;
                                 </div>
                                 <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p class="homepageDesc"> Delivering the freshness You deserve</p>
+                                        <p class="homepageBannerDesc"> Delivering the freshness You deserve</p>
                                     </div>
                                 </div>
                             </div>
@@ -1056,7 +1057,7 @@ z-index: 1001;
 
 
 
-                                        <p class="homepageDesc h3Pere">At BC Orchard, our corporate culture is more than just a set of values. It
+                                        <p class="pereDescTitle h3Pere homepageTitle description text-center">At BC Orchard, our corporate culture is more than just a set of values. It
                                             is a living,
                                             breathing entity that shapes how we interact, collaborate, and strive for
                                             excellence. It
@@ -1160,7 +1161,7 @@ z-index: 1001;
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title"><a href="#">Excellence</a>
                                                                 </h3>
-                                                                <p class="homepageDesc">
+                                                                <p class="pereDesc homepageDesc ">
                                                                     We focus on delivering quality natural products to
                                                                     everyone. We conduct
                                                                     business in a legal, ethical, socially responsible,
@@ -1181,7 +1182,7 @@ z-index: 1001;
                                                             </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Communication</h3>
-                                                                <p class="ehomepageDesc"> We foster
+                                                                <p class="pereDesc homepageDesc "> We foster
                                                                     open communication to cultivate a positive and
                                                                     learningoriented work environment. We believe in
                                                                     creating a space where ideas are freely
@@ -1201,7 +1202,7 @@ z-index: 1001;
                                                             <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Passion</h3>
-                                                                <p class="homepageDesc">We are deeply
+                                                                <p class="pereDesc homepageDesc ">We are deeply
                                                                     passionate about what we do, and this drive fuels
                                                                     our
                                                                     commitment to delivering exceptional products. With
@@ -1229,7 +1230,7 @@ z-index: 1001;
                                                             </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Trust</h3>
-                                                                <p class="homepageDesc">
+                                                                <p class="pereDesc homepageDesc ">
                                                                     We foster a culture of confidence, both in ourselves
                                                                     and in others. We believe in
                                                                     the power of self-assurance and trust, which allows
@@ -1249,7 +1250,7 @@ z-index: 1001;
                                                             <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_respect.svg" title="del monte career creativity" alt="del monte career creativity logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Respect</h3>
-                                                                <p class="homepageDesc">We embrace a
+                                                                <p class="pereDesc homepageDesc ">We embrace a
                                                                     culture of treating everyone with dignity and
                                                                     respect, valuing
                                                                     their thoughts and ideas. We believe in fostering an

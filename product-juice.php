@@ -10,6 +10,8 @@
     <meta name="author" content="https://www.themetechmount.com/" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>Orchard</title>
+    
+    <link href="css/style.css" rel="stylesheet">
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />
@@ -49,15 +51,22 @@
 
     <!-- responsive -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/responsive.css" />
+    <style>
+        .featured-icon-box .ttm-icon.ttm-icon_element-size-md {
+            height: 48px;
+            width: 70px;
+            line-height: 48px;
+        }
+    </style>
 
 </head>
 
 <body>
 
-    <?php include 'header.php'; ?>
+    
     <!--page start-->
     <div class="page">
-
+    <?php include 'header.php'; ?>
       <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
             <!-- START REVOLUTION SLIDER 5.4.8 auto mode -->
 
@@ -74,7 +83,7 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption homepageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                        Just Juice, <br/> Period</div>
 
                     </li>
@@ -101,10 +110,10 @@
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
                                             <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
                                             </div>
-                                            <div class="homepageTitle">
+                                            <div class="featured-content">
                                                 
-                                                <div class="homepageDesc">
-                                                    <p>No preservatives, never from concentrate</p>
+                                                <div >
+                                                    <p class="pereDesc homepageDesc mt-3">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -115,10 +124,10 @@
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
                                             <img src="img/coco/icon_no_sugar.svg" alt="No preservatives"></img>
                                             </div>
-                                            <div class="homepageTitle">
+                                            <div class="featured-content">
                                                 
-                                                <div class="featured-desc">
-                                                    <p>A source of Vitamin</p>
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">A source of Vitamin</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -131,8 +140,8 @@
                                             </div>
                                             <div class="featured-content">
                                                
-                                                <div class="homepageTitle">
-                                                    <p>Gluten, fat, and cholesterol-free</p>
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -145,8 +154,8 @@
                                             </div>
                                             <div class="featured-content">
                                                 
-                                                <div class="homepageTitle">
-                                                    <p>Quality does matter! when we feel good we’re happier, when we are
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">Quality does matter! when we feel good we’re happier, when we are
                                                         happier and we’re more productive.</p>
                                                 </div>
                                             </div>
@@ -171,10 +180,10 @@
                                     <div class="section-title clearfix mb-10">
                                         <div class="title-header homepageTitle">
                                             <h5 class="h4Pere">about Juice</h5>
-                                            <h2 class="title">100% Pure fruit squeezed juice.</h2>
+                                            <h2 class="homepageTitle" style="color: #2a2a2a">100% Pure fruit squeezed juice.</h2>
                                         </div>
-                                        <div class="title-desc homepageDesc">
-                                            <p>BC Orchard promise you a delightful experience with every bottle of our
+                                        <div class="">
+                                            <p class="pereDesc homepageDesc ">BC Orchard promise you a delightful experience with every bottle of our
                                             fruit juice - it's
                                             nutritious, delicious, and 100% pure. Our unwavering commitment is to
                                             deliver
@@ -218,8 +227,8 @@
 
         <!-- Javascript -->
 
-        <!-- <script src="https://themetechmount.com/html/nutricare/js/jquery.min.js"></script>
-        <script src="https://themetechmount.com/html/nutricare/js/tether.min.js"></script>
+        <script src="https://themetechmount.com/html/nutricare/js/jquery.min.js"></script>
+        <!-- <script src="https://themetechmount.com/html/nutricare/js/tether.min.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/bootstrap.min.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/jquery.easing.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/jquery-waypoints.js"></script>

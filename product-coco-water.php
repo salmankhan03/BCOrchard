@@ -14,6 +14,8 @@
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />
 
+    <link href="css/style.css" rel="stylesheet">
+
     <!-- bootstrap -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/bootstrap.min.css" />
 
@@ -34,9 +36,9 @@
 
     <!-- REVOLUTION LAYERS STYLES -->
 
-    <!-- <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/revolution/css/layers.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/revolution/css/layers.css">
 
-    <!-- <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/revolution/css/settings.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/revolution/css/settings.css"> -->
 
     <!-- prettyphoto -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/prettyPhoto.css">
@@ -49,36 +51,29 @@
 
     <!-- responsive -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/responsive.css" />
-
-    <!-- Add Bootstrap CSS -->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="../css/style.css">
-
-
-    <!-- Add Bootstrap JS (jQuery is a prerequisite) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
+    <style>
+        .featured-icon-box .ttm-icon.ttm-icon_element-size-md {
+            height: 48px;
+            width: 70px;
+            line-height: 48px;
+        }
+    </style>
 
 </head>
 
 <body>
-    <?php include 'header.php'; ?>
 
+   
     <!--page start-->
     <div class="page">
+    <?php include 'header.php'; ?>
 
-
-
-        <div id="" class=" " data-alias="classic4export" data-source="gallery">
+      <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
             <!-- START REVOLUTION SLIDER 5.4.8 auto mode -->
 
             <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" data-version="5.4.8.1">
 
-                <ul>
+            <ul>
                     <li data-index="rs-13" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
                         <img src="img/coco/banner_cococnut.jpg" alt="" title="mainslider-bg003" width="1920" height="760"  data-no-retina>
@@ -89,11 +84,11 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption homepageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                         Coconut Water</div>
 
-                        <div class="tp-caption homepageDesc tp-resizeme" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['18','18','15','12']" data-lineheight="['29','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                            Nutritious, Delicious and 100% pure
+                        <div class="tp-caption homepageBannerDesc tp-resizeme" style="color: #fff !important; font-size: 1.5rem !important;" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['24','24','15','12']" data-lineheight="['29','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                            Nutritious, Delicious and 100% pure Coconut Water
                         </div>
 
 
@@ -103,10 +98,11 @@
                 </ul>
             </div>
         </div>
+        <!-- END REVOLUTION SLIDER -->
+
         <!--site-main start-->
         <div class="site-main">
 
-            <!--row-top-section-->
             <section class="ttm-row row-top-section clearfix">
                 <div class="container">
                     <div class="row">
@@ -117,13 +113,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
-                                               
+                                            <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                               
-                                                <div class="homepageDesc">
-                                                    <p class="h5Pere">No preservatives, never from concentrate</p>
+                                                
+                                                <div >
+                                                    <p class="pereDesc homepageDesc mt-3">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -136,8 +131,8 @@
                                             </div>
                                             <div class="featured-content">
                                                 
-                                                <div class="homepageDesc">
-                                                    <p class="h5Pere">No sugar added</p>
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">No sugar added</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -149,9 +144,9 @@
                                             <img src="img\coco\icon_calcium_potassium.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                
-                                                <div class="homepageDesc">
-                                                    <p class="h5Pere">A source of calcium and potassium</p>
+                                               
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">A source of calcium and potassium</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -164,8 +159,8 @@
                                             </div>
                                             <div class="featured-content">
                                                 
-                                                <div class="homepageDesc">
-                                                    <p class="h5Pere">Gluten, fat, and cholesterol-free</p>
+                                                <div class="">
+                                                    <p class="pereDesc homepageDesc mt-3">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -176,6 +171,7 @@
                     </div><!-- row end -->
                 </div>
             </section>
+
             <!-- row-top-section end -->
 
             <!--about-section-->
@@ -189,11 +185,11 @@
                                     <div class="section-title clearfix mb-10">
                                         <div class="title-header homepageTitle">
                                             <h5 class="h4Pere">about nutrition</h5>
-                                            <h2 class="title">Introducing BC Orchard's Young Coconut Water - Nature's
+                                            <h2 class="homepageTitle" style="color: #2a2a2a">Introducing BC Orchard's Young Coconut Water - Nature's
                                                 Refreshing Elixir!</h2>
                                         </div>
                                         <div class="title-desc homepageDesc">
-                                            <p>Our 100% pure coconut water is a tropical delight, straight from the
+                                            <p class="pereDesc homepageDesc">Our 100% pure coconut water is a tropical delight, straight from the
                                                 heart of young
                                                 coconuts. Sourced from the finest young coconuts in Vietnam, each carton
                                                 is filled with
@@ -202,7 +198,7 @@
                                                 beverage that is natural, free from additives, and a wholesome hydration
                                                 choice for all.</p>
 
-                                            <p>Our 100% pure coconut water is a tropical delight, straight from the
+                                            <p class="pereDesc homepageDesc">Our 100% pure coconut water is a tropical delight, straight from the
                                                 heart of young
                                                 coconuts. Sourced from the finest young coconuts in Vietnam, each carton
                                                 is filled with
@@ -211,7 +207,7 @@
                                                 beverage that is natural, free from additives, and a wholesome hydration
                                                 choice for all.</p>
 
-                                            <p>Our 100% pure coconut water is a tropical delight, straight from the
+                                            <p class="pereDesc homepageDesc">Our 100% pure coconut water is a tropical delight, straight from the
                                                 heart of young
                                                 coconuts. Sourced from the finest young coconuts in Vietnam, each carton
                                                 is filled with
@@ -388,8 +384,8 @@ myModal.addEventListener("click", (event) => {
 
         <!-- Javascript -->
 
-        <!-- <script src="https://themetechmount.com/html/nutricare/js/jquery.min.js"></script>
-        <script src="https://themetechmount.com/html/nutricare/js/tether.min.js"></script>
+        <script src="https://themetechmount.com/html/nutricare/js/jquery.min.js"></script>
+        <!-- <script src="https://themetechmount.com/html/nutricare/js/tether.min.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/bootstrap.min.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/jquery.easing.js"></script>
         <script src="https://themetechmount.com/html/nutricare/js/jquery-waypoints.js"></script>

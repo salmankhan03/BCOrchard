@@ -19,6 +19,7 @@
 
     <!-- Icon Font Stylesheet -->
     <link href="https://fonts.cdnfonts.com/css/georgia" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link href="https://fonts.cdnfonts.com/css/avenir" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
@@ -46,7 +47,7 @@
             <!-- Add title and description here -->
             <div class="image-overlay">
                 <h1 class="imageTitle title h1Pere">Sustainability</h1>
-                <p class="imageDesc description">Commitment to a better and greener future</p>
+                <p class="homepageBannerDesc description">Commitment to a better and greener future</p>
             </div>
             </div>
         </div>
@@ -56,7 +57,7 @@
     <div class="container mt-5 pt-3 mb-5 pb-3" >
         <div class="row">
             <div class="col-sm-12">
-                <p class="pereDescTitle homepageTitle description text-center">
+                <p class="pereDescTitle h3Pere homepageTitle description text-center">
                 At BC Orchard, we recognize the importance of safeguarding our planet and are
                 dedicated to minimizing our environmental impact in every aspect of our operations.
                 </p>

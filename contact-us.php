@@ -5,6 +5,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
    
     <link data-minify="1" rel='stylesheet' id='elementor-post-4638-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/uploads/elementor/css/post-4638.css?ver=1634281325' type='text/css' media='all' />
   
@@ -785,7 +786,7 @@ z-index: 1001;
                             <div class="elementor-widget-wrap elementor-element-populated">
                                 <div class="elementor-element elementor-element-2dc7802 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="2dc7802" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container" style="width: 125%;">
-                                        <h1 class="elementor-heading-title elementor-size-default homepageTitle contct-title" style="margin-left: -25%">Connect With Us</h1>
+                                        <h1 class="elementor-heading-title elementor-size-default homepageTitle contct-title imageTitle" style="margin-left: -25%">Connect With Us</h1>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-1e0c61f elementor-widget elementor-widget-spacer" data-id="1e0c61f" data-element_type="widget" data-widget_type="spacer.default">
@@ -827,7 +828,7 @@ z-index: 1001;
                                 </div>
                                 <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container homepageDesc">
-                                        <p style="color:white">We want to hear From You</p>
+                                        <p class="homepageBannerDesc" style="color:white">We want to hear From You</p>
                                     </div>
                                 </div>
                             </div>

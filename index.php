@@ -78,9 +78,9 @@
 
 <div class="home-section">
   <div class="overlay-content">
-    <h1 class="homepageTitle h1Pere">Taste of Nature</h1>
-    <p class="homepageDesc">Nothing more, Nothing less</p>
-    <button href="#" class="btn homeBtn">Shop Now</button>
+    <h1 class="homepageBannerTitle h1Pere">Taste of Nature</h1>
+    <p class="homepageBannerDesc">Nothing more, Nothing less</p>
+    <!-- <button href="#" class="btn homeBtn">Shop Now</button> -->
   </div>
 </div>
 <!-- <div class="container-fluid p-0 wow fadeIn" data-wow-delay="0.1s">
@@ -591,7 +591,7 @@ function setREVStartSize(e) {
                                                                                                             Product
                                                                                                     </span>
                                                                                                     <h2 class="homepageTitle"
-                                                                                                        style="margin: -5px 0px 0px 0px">
+                                                                                                        style="color: #FFFFFF ;margin: -5px 0px 0px 0px">
                                                                                                         100% Pure Coconut Water
                                                                                                     </h2>
                                                                                                 </div>
@@ -663,7 +663,7 @@ function setREVStartSize(e) {
                                                                                                 <div
                                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  ">
                                                                                                     <span
-                                                                                                        class="homepageGridTitle qodef-caption-line"
+                                                                                                        class="homepageGridTitle h4Pere qodef-m-caption"
                                                                                                         style="font-size: 20px">
                                                                                                         <span
                                                                                                             class="qodef-caption-line qodef--left"></span>
