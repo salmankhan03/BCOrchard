@@ -64,13 +64,13 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                             <li><a href="about_us.php">About Us</a></li>
                                             <li><a href="philosophy.php">Philosophy</a></li>
                                             <li><a href="our_values.php">Our Values</a></li>
-                                            <li><a href="sustainibility.php">Sustainability</a></li>
+                                            <li><a href="sustainibility.php" style="padding-bottom: 15px">Sustainability</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a id="products" href="product-coco-water.php">Products</a>
                                         <ul>
                                             <li><a href="product-coco-water.php">Coconut Water</a></li>
-                                            <li><a href="product-juice.php">BCO Juices</a></li>
+                                            <li><a href="product-juice.php" style="padding-bottom: 15px">BCO Juices</a></li>
                                         </ul>
                                     </li>
                                     <li class=""><a id="contact" href="contact-us.php">Contact</a>

@@ -768,6 +768,21 @@ z-index: 1001;
         .stock_quote.sqitem.plus:hover {
             color: #009D59
         }
+
+        .radioBtn{
+            width: 3% !important;
+            margin-top: 37px !important;
+            padding-left: 10px !important;
+            
+        }
+        .radioBtnLbm{
+            padding-left: 10px !important;
+            color: var(--accent) !important;
+            font-weight: 400 !important;
+            font-size: 12px !important;
+            text-transform: uppercase;
+        letter-spacing: .2em;
+        }
     </style>
 </head>
 
@@ -853,8 +868,9 @@ z-index: 1001;
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-8f369d9 elementor-widget elementor-widget-text-editor" data-id="8f369d9" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container h4Pere">
+                                                                <span class="h4LeftLine"></span> &nbsp;
+                                                                <span >get in touch</span>&nbsp;&nbsp;
                                                                 <span class="h4LeftLine"></span>
-                                                                <span >get in touch</span>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
@@ -862,13 +878,7 @@ z-index: 1001;
                                                                 <img width="70" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%204'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" /><noscript><img width="70" height="4" src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" class="attachment-full size-full" alt="" /></noscript>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-c5bfe75 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" data-id="c5bfe75" data-element_type="widget" data-widget_type="text-editor.default">
-                                                            <div class="elementor-widget-container">
-                                                                At BC Orchard, ware always open to comments in guiding
-                                                                us to become better. Please
-                                                                connect with us in bringing only the best products to
-                                                                you. </div>
-                                                        </div>
+                                                       
                                                         <div class="elementor-element elementor-element-47f6eff elementor-widget__width-initial elementor-widget elementor-widget-bodoni-contactform" data-id="47f6eff" data-element_type="widget" data-widget_type="bodoni-contactform.default">
                                                             <div class="elementor-widget-container">
                                                                 <div role="form" class="wpcf7" id="wpcf7-f5584-p4638-o1" lang="en-US" dir="ltr">
@@ -902,6 +912,36 @@ z-index: 1001;
                                                                                 <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Country" /></span>
                                                                             </div>
                                                                         </div>
+
+                                                                        <label class="form-check-label" for="flexRadioDefault1">
+                                                                           This Is a...
+                                                                        </label>
+                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
+                                                                            Comment
+                                                                        </label>
+
+                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
+                                                                            Inquiry
+                                                                        </label>
+
+                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
+                                                                            Concern
+                                                                        </label>
+
+                                                                        <!-- <div class="row-inline row"> -->
+                                                                            <!-- <div class="form-check"> -->
+                                                                                
+                                                                            <!-- </div> -->
+                                                                            <!-- <div class="form-check">
+                                                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                                                                                <label class="form-check-label" for="flexRadioDefault2">
+                                                                                    Default checked radio
+                                                                                </label>
+                                                                            </div> -->
+                                                                        <!-- </div> -->
                                                                         
                                                                         <div>
                                                                             <span class="wpcf7-form-control-wrap textarea"><textarea name="textarea" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>

@@ -57,11 +57,11 @@
     <div class="container mt-5  pt-3 mb-5 pb-3">
         <div class="row">
             <div class="col-sm-12">
-                <p class="pereDescTitle h3Pere homepageTitle description text-center">
+                <h4 class=" homepageTitle description text-center" style="color: #2a2a2a; font-weight: 600">
                     We believe that every team member plays a vital role
                     in our collective success, and we encourage everyone in our extended family to bring
                     their best self to work every day.
-                </p>
+                </h4>
                 <p class="pereDesc homepageDesc mt-4">
                     Innovation is in our DNA, and we celebrate creativity and out-of-the-box thinking. We
                     believe that the best ideas come from a diverse and inclusive team, which is why we

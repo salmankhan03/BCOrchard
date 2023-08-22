@@ -1057,15 +1057,7 @@ z-index: 1001;
 
 
 
-                                        <p class="pereDescTitle h3Pere homepageTitle description text-center">At BC Orchard, our corporate culture is more than just a set of values. It
-                                            is a living,
-                                            breathing entity that shapes how we interact, collaborate, and strive for
-                                            excellence. It
-                                            defines who we are as a company and guides us in our pursuit of creating
-                                            meaningful
-                                            experiences for our customers while fostering a fulfilling and supportive
-                                            work
-                                            environment for our team.</p>
+                                        <p class="pereDescTitle h3Pere homepageTitle description text-center" style="color: 2a2a2a; font-weight: bold">At BC Orchard, our corporate culture is more than just a set of values.</p>
 
 
 

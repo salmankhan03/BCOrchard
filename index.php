@@ -544,6 +544,7 @@ function setREVStartSize(e) {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
+                                                                                        <a itemprop="url" class="qodef-e-link" href="our_values.php" target="_self"></a>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div
@@ -597,7 +598,7 @@ function setREVStartSize(e) {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
-                                                                                       
+                                                                                        <a itemprop="url" class="qodef-e-link" href="product-coco-water.php" target="_self"></a>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div
@@ -676,6 +677,7 @@ function setREVStartSize(e) {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
+                                                                                        <a itemprop="url" class="qodef-e-link" href="product-juice.php" target="_self"></a>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div
@@ -687,10 +689,10 @@ function setREVStartSize(e) {
                                                                                             class="qodef-e-media-image">
                                                                                             <img width="1000"
                                                                                                 height="1000"
-                                                                                                src="img/masonry-img-7.jpg"
+                                                                                                src="img/masonry_img_7.jpg"
                                                                                                 class="attachment-singlemalt_image_size_huge-square size-singlemalt_image_size_huge-square wp-post-image"
                                                                                                 alt="a"
-                                                                                                srcset="img/masonry-img-7.jpg 1000w, img/masonry-img-7.jpg 300w, img/masonry-img-7.jpg 100w,img/masonry-img-7.jpg 600w, img/masonry-img-7.jpg 150w, img/masonry-img-7.jpg 768w, img/masonry-img-7.jpg 650w"
+                                                                                                srcset="img/masonry_img_7.jpg 1000w, img/masonry_img_7.jpg 300w, img/masonry_img_7.jpg 100w,img/masonry_img_7.jpg 600w, img/masonry_img_7.jpg 150w, img/masonry_img_7.jpg 768w, img/masonry_img_7.jpg 650w"
                                                                                                 sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                         </div>
                                                                                         <div class="qodef-e-content">
@@ -711,6 +713,7 @@ function setREVStartSize(e) {
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
+                                                                                        <a itemprop="url" class="qodef-e-link" href="philosophy.php" target="_self"></a>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div

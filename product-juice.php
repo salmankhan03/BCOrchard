@@ -83,7 +83,7 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['135','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                        Just Juice, <br/> Period</div>
 
                     </li>
@@ -113,7 +113,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div >
-                                                    <p class="pereDesc homepageDesc mt-3">No preservatives, never from concentrate</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -127,7 +127,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">A source of Vitamin</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">A source of Vitamin</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -141,7 +141,7 @@
                                             <div class="featured-content">
                                                
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">Gluten, fat, and cholesterol-free</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -155,7 +155,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">Quality does matter! when we feel good we’re happier, when we are
+                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">Quality does matter! when we feel good we’re happier, when we are
                                                         happier and we’re more productive.</p>
                                                 </div>
                                             </div>

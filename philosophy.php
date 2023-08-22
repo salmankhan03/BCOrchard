@@ -1444,8 +1444,8 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e60e085 elementor-widget elementor-widget-heading" data-id="e60e085" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <span class="h4LeftLine"></span>
-                                                        <span class="homepageDesc elementor-size-default h4Pere">Mission</span>
+                                                        <span class="h4LeftLine"></span>&nbsp;
+                                                        <span class="homepageDesc elementor-size-default h4Pere">Mission</span>&nbsp;&nbsp;
                                                         <span class="h4LeftLine"></span>
                                                     </div>
                                                 </div>
@@ -1523,8 +1523,8 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-c449ed5 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="c449ed5" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                    <span class="h4LeftLine"></span>
-                                                    <span class="homepageDesc elementor-size-default h4Pere">Vision</span>
+                                                    <span class="h4LeftLine"></span> &nbsp;
+                                                    <span class="homepageDesc elementor-size-default h4Pere">Vision</span>&nbsp;&nbsp;
                                                     <span class="h4LeftLine"></span>
                                                     </div>
                                                 </div>

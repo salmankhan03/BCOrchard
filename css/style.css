@@ -28,13 +28,37 @@
   color: #9dca00 !important;
 }
 
+li>ul {
+  margin-bottom: 0;
+  margin-left: 0px !important;
+}
+
+.main-menu .navigation > li > ul {
+  padding: 0px !important;
+}
+
+.main-menu .navigation > li > ul > li > a {
+  border-bottom: none !important;
+}
+
+.main-menu .navigation > li > ul > li {
+  position: relative;
+  width: 100%;
+  padding: 0 25px;
+  border-bottom: 1px solid #d8d8d8 !important;
+}
+
+.main-menu .navigation > li.dropdown:hover > ul {
+  border-top: 3px solid #9dca00;
+}
+
 .main-menu .navigation > li > ul > li > a:after {
   content: '';
   position: absolute;
   left: 0;
   bottom: -2px;
   width: 0px;
-  border-bottom: 2px solid #9dca00 !important;
+  border-bottom: none !important;
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
@@ -241,6 +265,7 @@ body, html {
 }
 .imageTitle{
   font-size: 72px;
+  font-weight: bold !important;
 }
 
 .imageDesc{
@@ -326,6 +351,16 @@ body, html {
 
 }
 
+.juiceButton:hover{
+  background-color: #046a38 !important;
+  background: #046a38 !important;
+  border-radius: 27px !important;
+  color: #fff !important;
+  border: 1px solid transparent;
+  padding: 10px 25px !important;
+
+}
+
 
 /* --------------------------------------------------Home page font styling------------------------------------------- */
 
@@ -395,7 +430,7 @@ body, html {
 }
 
 .h4Pere{
-  font-family: 'Georgia', sans-serif !important;
+  font-family: 'Avenir', sans-serif !important;
   text-transform: uppercase !important;
   font-style: normal !important;
   font-size: 21px !important;

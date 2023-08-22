@@ -57,10 +57,10 @@
     <div class="container mt-5 pt-3 mb-5 pb-3" >
         <div class="row">
             <div class="col-sm-12">
-                <p class="pereDescTitle h3Pere homepageTitle description text-center">
+                <h4 class="homepageTitle description text-center" style="color: #2a2a2a; font-weight: 600">
                 At BC Orchard, we recognize the importance of safeguarding our planet and are
                 dedicated to minimizing our environmental impact in every aspect of our operations.
-                </p>
+                </h4>
                 <p class="pereDesc homepageDesc mt-4">
                 We work closely with partners and suppliers who share our vision for sustainable
                 agriculture. By supporting eco-friendly farming practices and reducing the use of
