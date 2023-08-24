@@ -1149,7 +1149,7 @@ z-index: 1001;
                                                             }
                                                         </style>
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><a href="#"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career excellence" alt="del monte career excellence logo" loading="lazy" /></a></figure>
+                                                            <figure style="width: 20%; margin-bottom: 40px"><a href="#"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career excellence" alt="del monte career excellence logo" loading="lazy" /></a></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title"><a href="#">Excellence</a>
                                                                 </h3>
@@ -1170,7 +1170,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-945d638 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="945d638" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_communication.svg" title="del monte career care" alt="del monte career care logo" loading="lazy" />
+                                                            <figure style="width: 20%; margin-bottom: 40px"><img decoding="async" src="img/values/BCO_icon_communication.svg" title="del monte career care" alt="del monte career care logo" loading="lazy" />
                                                             </figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Communication</h3>
@@ -1191,7 +1191,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-bac5ef2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="bac5ef2" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
+                                                            <figure style="width: 20%; margin-bottom: 40px"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Passion</h3>
                                                                 <p class="pereDesc homepageDesc ">We are deeply
@@ -1218,8 +1218,8 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-d1e5657 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="d1e5657" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_trust.svg" title="del monte career trust" alt="del monte career trust logo" loading="lazy" />
-                                                            </figure>
+                                                            <div style="width: 20%; margin-bottom: 40px"><img  src="img/values/BCO_icon_trust.svg" title="del monte career trust" alt="del monte career trust logo" loading="lazy" />
+                                                        </div>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Trust</h3>
                                                                 <p class="pereDesc homepageDesc ">
@@ -1239,7 +1239,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-e7a10c8 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="e7a10c8" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img decoding="async" src="img/values/BCO_icon_respect.svg" title="del monte career creativity" alt="del monte career creativity logo" loading="lazy" /></figure>
+                                                            <figure style="width: 20%; margin-bottom: 40px"><img decoding="async" src="img/values/BCO_icon_respect.svg" title="del monte career creativity" alt="del monte career creativity logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Respect</h3>
                                                                 <p class="pereDesc homepageDesc ">We embrace a

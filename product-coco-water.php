@@ -57,6 +57,12 @@
             width: 70px;
             line-height: 48px;
         }
+        .tp-leftarrow{
+            display: none !important
+        }
+        .tp-rightarrow{
+            display: none !important
+        }
     </style>
 
 </head>
