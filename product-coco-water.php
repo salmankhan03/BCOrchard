@@ -63,6 +63,12 @@
         .tp-rightarrow{
             display: none !important
         }
+        body .site-main {
+            padding-top: 82px;
+            background-color: #fff;
+            position: relative;
+            z-index: 8 !important;
+        }
     </style>
 
 </head>
@@ -124,7 +130,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div >
-                                                    <p class="pereDesc homepageDesc mt-3">No preservatives, never from concentrate</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -138,7 +144,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">No sugar added</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">No sugar added</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -152,7 +158,7 @@
                                             <div class="featured-content">
                                                
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">A source of calcium and potassium</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">A source of calcium and potassium</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -166,7 +172,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3">Gluten, fat, and cholesterol-free</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -294,7 +300,7 @@
 
              <!--cta-section-->
         <section class="ttm-row home2-cta-section ttm-bgcolor-grey ttm-bg ttm-bgimage-yes clearfix" style="background-color: #252B48">
-            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer" style="background: url(https://demo2.wpopal.com/bodoni/wp-content/uploads/2021/07/rev_home3_3.jpg);"></div>
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer" style="background: url(img/row-bgimage.jpg);"></div>
             <div class="container"><!--container-->
                 <div class="row"><!--row-->
                     <div class="col-lg-12 text-center">

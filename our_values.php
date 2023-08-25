@@ -997,7 +997,7 @@ z-index: 1001;
                             <div class="elementor-widget-wrap elementor-element-populated">
                                 <div class="elementor-element elementor-element-2dc7802 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="2dc7802" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h1 class="imageTitle elementor-size-default">Our Values</h1>
+                                        <h1 class="imageTitle elementor-size-default title">Our Values</h1>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-1e0c61f elementor-widget elementor-widget-spacer" data-id="1e0c61f" data-element_type="widget" data-widget_type="spacer.default">
@@ -1057,7 +1057,13 @@ z-index: 1001;
 
 
 
-                                        <p class="pereDescTitle h3Pere homepageTitle description text-center" style="color: 2a2a2a; font-weight: bold">At BC Orchard, our corporate culture is more than just a set of values.</p>
+                                        <p class="pereDescTitle h3Pere homepageTitle description text-center" style="color: #000; font-weight: bold">
+                                        At BC Orchard, our corporate culture is more than just a set of values. It is a living, 
+                                        breathing entity that shapes how we interact, collaborate, and strive for excellence. It 
+                                        defines who we are as a company and guides us in our pursuit of creating meaningful 
+                                        experiences for our customers while fostering a fulfilling and supportive work 
+                                        environment for our team.
+                                    </p>
 
 
 

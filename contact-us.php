@@ -851,7 +851,7 @@ z-index: 1001;
                     </div>
                 </section>
 
-                <body class="page-template page-template-elementor_header_footer page page-id-4638 wp-custom-logo wp-embed-responsive theme-bodoni woocommerce-no-js ehf-header ehf-footer ehf-template-bodoni ehf-stylesheet-demo-child woo-variation-swatches wvs-theme-demo-child wvs-theme-child-bodoni wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label chrome woocommerce-active product-style-1 elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-4638">
+                <body style="mt-5" class="page-template page-template-elementor_header_footer page page-id-4638 wp-custom-logo wp-embed-responsive theme-bodoni woocommerce-no-js ehf-header ehf-footer ehf-template-bodoni ehf-stylesheet-demo-child woo-variation-swatches wvs-theme-demo-child wvs-theme-child-bodoni wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label chrome woocommerce-active product-style-1 elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-4638">
                     <div id="page" class="hfeed site">
 
 
@@ -897,19 +897,26 @@ z-index: 1001;
                                                                         </div>
                                                                         <div class="row-inline row">
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*" /></span>
                                                                             </div>
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your email*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your email*" /></span>
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="row-inline row">
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="tel" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
                                                                             </div>
-                                                                            <div>
-                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Country" /></span>
+                                                                            <div  style="margin-top:10px">
+                                                                                <span class="wpcf7-form-control-wrap your-email">
+                                                                                <select class="form-select" style="border-bottom: 1px solid #000" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-label="Default select example">
+                                                                                <option value="us" selected>Select Country</option>
+                                                                                <option value="us">United States</option>
+                                                                                <option value="ca">Canada</option>
+                                                                                <option value="uk">United Kingdom</option>
+                                                                                <option value="au">Australia</option>
+                                                                                </select></span>
                                                                             </div>
                                                                         </div>
 
@@ -917,20 +924,35 @@ z-index: 1001;
                                                                            This Is a...
                                                                         </label>
 
-                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
-                                                                            Comment
-                                                                        </label>
+                                                                        <div style="width: inherit">
+                                                                            <div class="d-flex justify-content-between">
+                                                                                
+                                                                                <div>
+                                                                                        <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <label class="form-check-label radioBtnLbm" style="margin-left: 10px" for="flexRadioDefault1">
+                                                                                        Comment
+                                                                                    </label>
+                                                                                </div>   
+                                                                                <div>
+                                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
+                                                                                        Inquiry
+                                                                                    </label>
+                                                                                </div> 
+                                                                                <div>
+                                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
+                                                                                        Concern
+                                                                                    </label>
+                                                                                </div> 
+                                                                            </div> 
+                                                                        <div>
 
-                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
-                                                                            Inquiry
-                                                                        </label>
+                                                                        
 
-                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                                                                        <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
-                                                                            Concern
-                                                                        </label>
+                                                                        
+
+                                                                       
                                                                       
                                                                         <!-- <div class="row-inline row"> -->
                                                                             <!-- <div class="form-check"> -->
@@ -945,7 +967,7 @@ z-index: 1001;
                                                                         <!-- </div> -->
                                                                         
                                                                         <div>
-                                                                            <span class="wpcf7-form-control-wrap textarea"><textarea name="textarea" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
+                                                                            <span class="wpcf7-form-control-wrap textarea"><textarea name="textarea" style="border-bottom: 1px solid #000" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
                                                                         </div>
                                                                         <div class="text-center">
                                                                             <a class="juiceButton" type="submit" value="book now">Send

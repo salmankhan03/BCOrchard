@@ -57,6 +57,18 @@
             width: 70px;
             line-height: 48px;
         }
+        .tp-leftarrow{
+            display: none !important
+        }
+        .tp-rightarrow{
+            display: none !important
+        }
+        body .site-main {
+            padding-top: 82px;
+            background-color: #fff;
+            position: relative;
+            z-index: 8 !important;
+        }
     </style>
 
 </head>
