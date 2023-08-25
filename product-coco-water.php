@@ -300,14 +300,14 @@
 
              <!--cta-section-->
         <section class="ttm-row home2-cta-section ttm-bgcolor-grey ttm-bg ttm-bgimage-yes clearfix" style="background-color: #252B48">
-            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer" style="background: url(img/row-bgimage.jpg);"></div>
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer" style="background: url(img/coco/row-bgimage.jpg);"></div>
             <div class="container"><!--container-->
                 <div class="row"><!--row-->
                     <div class="col-lg-12 text-center">
                         <!-- section title -->
                         <div class="row-title style2 clearfix">
                             <div class="title-header">
-                                <h2 class="title homepageTitle mb-15">Packaging</h2>
+                                <h2 class="title homepageTitle mb-15" style="color: #fff">Packaging</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
