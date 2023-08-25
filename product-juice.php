@@ -104,7 +104,7 @@
                         <div class="col-md-12">
                             <div class="mt_60 mlr-15 res-991-m-0 mb-20">
                                 <div class="row row-equal-height ttm-bgcolor-white box-shadow1">
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <div class="col-lg-4 col-md-12 col-sm-12">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -118,7 +118,7 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <div class="col-lg-4 col-md-12 col-sm-12">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -132,7 +132,7 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12 box-shadow1">
+                                    <div class="col-lg-4 col-md-12 col-sm-12 box-shadow1">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -146,21 +146,22 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <!--<div class="col-lg-3 col-md-12 col-sm-12">-->
                                         <!-- featured-icon-box -->
-                                        <div class="featured-icon-box style1 top-icon text-center">
-                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_gluten_free.svg" alt="No preservatives"></img>
-                                            </div>
-                                            <div class="featured-content">
+                                    <!--    <div class="featured-icon-box style1 top-icon text-center">-->
+                                    <!--        <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">-->
+                                    <!--        <img src="img/coco/icon_gluten_free.svg" alt="No preservatives"></img>-->
+                                    <!--        </div>-->
+                                    <!--        <div class="featured-content">-->
                                                 
-                                                <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">Quality does matter! when we feel good we’re happier, when we are
-                                                        happier and we’re more productive.</p>
-                                                </div>
-                                            </div>
-                                        </div><!-- featured-icon-box end-->
-                                    </div>
+                                    <!--            <div class="">-->
+                                    <!--                <p class="pereDesc homepageDesc mt-3 text-uppercase">Quality does matter! when we feel good we’re happier, when we are-->
+                                    <!--                    happier and we’re more productive.</p>-->
+                                    <!--            </div>-->
+                                    <!--        </div>-->
+                                    <!--    </div>-->
+                                    <!-- featured-icon-box end-->
+                                    <!--</div>-->
                                 </div>
                             </div>
                         </div>
@@ -182,7 +183,7 @@
                                             <h5 class="h4Pere">about Juice</h5>
                                             <h2 class="homepageTitle" style="color: #2a2a2a">100% Pure fruit squeezed juice.</h2>
                                         </div>
-                                        <div class="">
+                                        <div class="title-desc homepageDesc">
                                             <p class="pereDesc homepageDesc ">BC Orchard promise you a delightful experience with every bottle of our
                                             fruit juice - it's
                                             nutritious, delicious, and 100% pure. Our unwavering commitment is to

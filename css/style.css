@@ -398,6 +398,7 @@ body, html {
   font-size: 80px !important;
   font-style: bold !important;
   color: #fff !important;
+  line-height: 1.2em !important;
 }
 
 
@@ -435,6 +436,9 @@ body, html {
   font-style: normal !important;
   font-size: 21px !important;
   color:  #9dca00 !important;
+  font-weight: normal !important;
+  letter-spacing: 0.11em !important;
+
 }
 
 .h4LeftLine{

@@ -204,23 +204,9 @@
                                                 beverage that is natural, free from additives, and a wholesome hydration
                                                 choice for all.</p>
 
-                                            <p class="pereDesc homepageDesc">Our 100% pure coconut water is a tropical delight, straight from the
-                                                heart of young
-                                                coconuts. Sourced from the finest young coconuts in Vietnam, each carton
-                                                is filled with
-                                                the purest and most refreshing coconut water you can find. We take pride
-                                                in offering a
-                                                beverage that is natural, free from additives, and a wholesome hydration
-                                                choice for all.</p>
+                                            <p class="pereDesc homepageDesc">Our 100% Pure Coconut Water is bursting with essential electrolytes, vitamins, and minerals, making it the perfect way to quench your thirst and replenish your body after any activity. Whether you're on a sunny beach vacation or a busy day at work, our coconut water will keep you feeling revitalized and energized.</p>
 
-                                            <p class="pereDesc homepageDesc">Our 100% pure coconut water is a tropical delight, straight from the
-                                                heart of young
-                                                coconuts. Sourced from the finest young coconuts in Vietnam, each carton
-                                                is filled with
-                                                the purest and most refreshing coconut water you can find. We take pride
-                                                in offering a
-                                                beverage that is natural, free from additives, and a wholesome hydration
-                                                choice for all.</p>
+                                            <p class="pereDesc homepageDesc">With every sip, you'll experience the authentic taste of the tropics, as our pure coconut water maintains the true flavor of young coconuts. Enjoy the goodness of BC Orchard's 100% Pure Coconut Water and elevate your hydration game with a beverage that's not only delicious but also naturally nutritious. Join us in embracing the taste of paradise, one sip at a time!</p>
                                         </div>
                                     </div><!-- section title end -->
 
@@ -229,7 +215,7 @@
 
                                 <!-- row-->
                                 <div class="row d-flex align-items-center">
-                                <button class="ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Contact Us</button>
+                                <button class="ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
                                     <div class="col-md-4 col-sm-4">
                                         
 
