@@ -1356,7 +1356,7 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e1c5d50 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="e1c5d50" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h1 class="imageTitle elementor-size-default title">Our Philosphy
+                                                        <h1 class="imageTitle elementor-size-default title">Our Philosophy
                                                         </h1>
                                                     </div>
                                                   

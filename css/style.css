@@ -266,6 +266,9 @@ body, html {
 .imageTitle{
   font-size: 72px;
   font-weight: bold !important;
+  letter-spacing: 0.02em !important;
+  text-shadow: 3px 2px 14px #000 !important;
+
 }
 
 .imageDesc{
@@ -288,6 +291,10 @@ body, html {
   font-size: 18px;
 }
 
+.iconPara{
+  text-align: left !important;
+}
+
 @media only screen and (max-width: 768px) {
   .image-overlay {
       position: absolute;
@@ -306,12 +313,12 @@ body, html {
     align-items: center;
     color: #fff; /* Change color to match your design */
 }
+
   .imageTitle{
-    text-shadow: 0px 2px 2px #fff !important;
-      font-size: 25px;
+    font-size: 25px;
   }
   .imageDesc{
-      font-size: 18px;
+    font-size: 18px;
   }
 }
 
@@ -366,7 +373,7 @@ body, html {
 
 .homepageBannerTitle{
   font-family: 'Georgia', sans-serif !important;
-  text-shadow: 0px 2px 2px #fff !important;
+  text-shadow: 3px 2px 14px #000 !important;
   letter-spacing: unset;
   text-transform: none;
 }
@@ -375,10 +382,12 @@ body, html {
   font-family: 'Georgia', sans-serif !important;
   letter-spacing: unset;
   text-transform: none;
+  line-height: 1.5em;
 }
 
 .homepageDesc{
   font-family: 'Avenir', sans-serif !important; 
+  text-align: justify;
 }
 
 .homepageBannerDesc{
@@ -434,16 +443,16 @@ body, html {
   font-family: 'Avenir', sans-serif !important;
   text-transform: uppercase !important;
   font-style: normal !important;
-  font-size: 21px !important;
+  font-size: 16px !important;
   color:  #9dca00 !important;
-  font-weight: normal !important;
+  font-weight: 500 !important;
   letter-spacing: 0.11em !important;
 
 }
 
 .h4LeftLine{
   display: inline-block;
-  height: 2px;
+  height: 1px;
   background-color: currentColor;
   vertical-align: middle;
   width: 34px;
@@ -457,3 +466,22 @@ body, html {
   color: black !important;
 }
 
+.elementor-2321 .elementor-element.elementor-element-e1c5d50 {
+
+    max-width: 54.495% !important;
+    --container-widget-width: 54.495% !important;
+    --container-widget-flex-grow: 0;
+}
+.contact-label{
+    width: 100%;
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--accent);
+    background-color: transparent;
+    border-color: var(--accent);
+    border-width: 0 0 1px;
+    padding: 15px 0 0 0;
+    margin-top: 45px !important;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}

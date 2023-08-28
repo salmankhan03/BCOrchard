@@ -96,7 +96,7 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['45','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                         Coconut Water</div>
 
                         <div class="tp-caption homepageBannerDesc tp-resizeme" style="color: #fff !important; font-size: 1.5rem !important;" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['24','24','15','12']" data-lineheight="['140','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
@@ -130,7 +130,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div >
-                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">No preservatives, never from concentrate</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -144,7 +144,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">No sugar added</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">No sugar added</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -158,7 +158,7 @@
                                             <div class="featured-content">
                                                
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">A source of calcium and potassium</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">A source of calcium and potassium</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -172,7 +172,7 @@
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3  text-uppercase">Gluten, fat, and cholesterol-free</p>
+                                                    <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -197,7 +197,7 @@
                                     <div class="section-title clearfix mb-10">
                                         <div class="title-header homepageTitle">
                                             <h5 class="h4Pere">about nutrition</h5>
-                                            <h2 class="homepageTitle" style="color: #2a2a2a">Introducing BC Orchard's Young Coconut Water - Nature's
+                                            <h2 class="homepageTitle" style="color: #2a2a2a; line-height: 1.2em;">Introducing BC Orchard's Young Coconut Water - Nature's
                                                 Refreshing Elixir!</h2>
                                         </div>
                                         <div class="title-desc homepageDesc">
@@ -220,7 +220,7 @@
                                 </div>
 
                                 <!-- row-->
-                                <div class="row d-flex align-items-center">
+                                <div class="row d-flex align-items-center pt-4">
                                 <button class="ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
                                     <div class="col-md-4 col-sm-4">
                                         
@@ -312,9 +312,9 @@
                                 <div class="section-title mb-30 clearfix d-flex align-center flex-column ">
                                     <!-- section title -->
                                     <div class="title-header">
-                                        <h2 class="title homepageTitle">Story Of Success</h2>
+                                        <h4 class="homepageTitle description text-white" style="font-weight:600">Specifically designed 200 mL carton, making it easy to drink from and convenient for on the run lifestyles</h4>
                                     </div>
-                                    <div class="title-desc homepageTitle text-center">Specifically designed 200 mL carton, making it easy to drink from and convenient for on the run lifestyles</div>
+                                    <div class="pereDesc homepageDesc text-white pt-4" style="font-weight:500; line-height: 1.6em;">200 mL is the most fluid that the average human can absorb in an hour, excess liquid along with the nutrients is wasted</div>
                                 </div><!-- section title end -->
                             </div>
                         </div>

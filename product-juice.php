@@ -120,12 +120,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
+                                            <img src="img/juice/icon_no_preservatives.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                 
                                                 <div >
-                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">No preservatives, never from concentrate</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-capitalize text-center">No preservatives,<br/>never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -134,12 +134,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_no_sugar.svg" alt="No preservatives"></img>
+                                            <img src="img/juice/icon_vitamin.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                 
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">A source of Vitamin</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-capitalize text-center">A source of Vitamin</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
@@ -148,12 +148,12 @@
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img\coco\icon_calcium_potassium.svg" alt="No preservatives"></img>
+                                            <img src="img\juice\icon_gluten_free.svg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                
                                                 <div class="">
-                                                    <p class="pereDesc homepageDesc mt-3 text-uppercase">Gluten, fat, and cholesterol-free</p>
+                                                    <p class="pereDesc homepageDesc mt-3 text-capitalize text-center">Gluten, fat, and cholesterol-free</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
