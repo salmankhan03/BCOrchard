@@ -225,55 +225,27 @@
                                     <div class="col-md-4 col-sm-4">
                                         
 
-                                        <div class="modal" id="myModal">
-                                            <div class="modal-dialog" style="margin: 15% auto">
-                                                <div class="modal-content">
-
-                                                <!-- Modal Header -->
-                                                <div class="modal-header">
-                                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                </div>
-
+                                        <div class="modal" id="myModal" >
+                                            <div class="modal-dialog modal-lg" style="margin: 9% auto">
+                                                <div class="modal-content" style="background: url(img/row-bgimage.jpg)" >
                                                 <!-- Modal Body -->
-                                                <div class="modal-body">
-                                                    <div class="row modal-innerbody">
-                                                    <div class="col-md-12">
-                                                            <h4>Nutritional Information </h4><hr/>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <h6>Typical Values</h6>
-                                                            <h6>Fat</h6>
-                                                            <p  style="margin-bottom: 5px">Saturates</p>
-                                                            <p style="margin-bottom: 5px">Trans fat</p>
-                                                            <h6>Carbohydrate</h6>
-                                                            <p style="margin-bottom: 5px">Sugars</p>
-                                                            <h6>Cholesterol</h6>
-                                                            <h6>Protein</h6>
-                                                            <h6>Sodium</h6>
-                                                            <h6>Calcium</h6>
-                                                            <h6>Iron</h6>
-                                                            <h6>Potassium</h6>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <h6>per 100ml</h6>
-                                                            <h6>0g</h6>
-                                                            <p style="margin-bottom: 5px">0g</p>
-                                                            <p style="margin-bottom: 5px">0g</p>
-                                                            <h6>5.8 g</h6>
-                                                            <p style="margin-bottom: 5px">5.3 g</p>
-                                                            <h6>0g</h6>
-                                                            <h6>0.1 g</h6>
-                                                            <h6>25 mg</h6>
-                                                            <h6>0 mg</h6>
-                                                            <h6>0 mg</h6>
-                                                            <h6>115 mg</h6>
-                                                        </div>
-                                                        
-                                                        
+                                                    <div class="modal-body" style="padding: 50px">
+                                                        <div class="row">
+                                                            <div class="col-md-6 col-sm-12 d-flex flex-column text-center align-items-center justify-content-center">
+                                                                <div class="d-flex align-items-center">
+                                                                    <span class="h4LeftLine"></span>&nbsp; &nbsp;
+                                                                        <H4 class="h4Pere p-2">Ingredient</H4>&nbsp;&nbsp;
+                                                                    <span class="h4LeftLine"></span>
+                                                                </div>
+                                                                <H3 style="font-size:30px !important; color: #000; font-weight: bold" class="h3Pere p-2">100% Pure Coconut Water</H3>
+                                                                <H6 style="font-size:30px !important" class="h6Pere p-2">Nothing more, nothing less</H6>
+                                                            </div>
 
+                                                            <div class="col-md-6 col-sm-12">
+                                                                <img class="img-fluid" src="img/coco/nutrition_label.jpg" alt="">
+                                                            </div>
+                                                        </div>
                                                     </div>
-                                                </div>
-
                                                 </div>
                                             </div>
                                         </div>
