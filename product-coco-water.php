@@ -210,7 +210,7 @@
                                                 beverage that is natural, free from additives, and a wholesome hydration
                                                 choice for all.</p>
 
-                                            <p class="pereDesc homepageDesc">Our 100% Pure Coconut Water is bursting with essential electrolytes, vitamins, and minerals, making it the perfect way to quench your thirst and replenish your body after any activity. Whether you're on a sunny beach vacation or a busy day at work, our coconut water will keep you feeling revitalized and energized.</p>
+                                            <p class="pereDesc homepageDesc">Each carton is bursting with essential electrolytes, vitamins, and minerals, making it the perfect way to quench your thirst and replenish your body after any activity. Whether you're on a sunny beach vacation or a busy day at work, our coconut water will keep you feeling revitalized and energized.</p>
 
                                             <p class="pereDesc homepageDesc">With every sip, you'll experience the authentic taste of the tropics, as our pure coconut water maintains the true flavor of young coconuts. Enjoy the goodness of BC Orchard's 100% Pure Coconut Water and elevate your hydration game with a beverage that's not only delicious but also naturally nutritious. Join us in embracing the taste of paradise, one sip at a time!</p>
                                         </div>
@@ -279,7 +279,7 @@
                         <!-- section title -->
                         <div class="row-title style2 clearfix">
                             <div class="title-header">
-                                <h2 class="title homepageTitle mb-15" style="color: #fff">Packaging</h2>
+                                <h2 class="title homepageTitle mb-15" style="color: #fff">Meet your goals efficiently</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
