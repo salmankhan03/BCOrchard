@@ -1356,10 +1356,10 @@ z-index: 1001;
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-e1c5d50 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="e1c5d50" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h1 class="elementor-heading-title imageTitle elementor-size-default">Our Philosphy
+                                                        <h1 class="imageTitle elementor-size-default title">Our Philosphy
                                                         </h1>
                                                     </div>
-                                                </div>
+                                                  
                                                 <div class="elementor-element elementor-element-f7985c1 elementor-widget elementor-widget-spacer" data-id="f7985c1" data-element_type="widget" data-widget_type="spacer.default">
                                                     <div class="elementor-widget-container">
                                                         <style>
@@ -1396,11 +1396,12 @@ z-index: 1001;
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-95b7fcf elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="95b7fcf" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container homepageBannerDesc">
-                                                        <p class="homepageBannerDesc">Delivering the Freshness You Deserve</p>
+                                                  <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p class="homepageBannerDesc"> Delivering the freshness You deserve</p>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
