@@ -69,6 +69,17 @@
             position: relative;
             z-index: 8 !important;
         }
+        .modelWidth{
+            width: 110% !important;
+            height: auto !important
+        }
+
+        @media (max-width: 768px) {
+            .modelWidth {
+                width: 100% !important;
+                height: auto !important
+            }
+        }
     </style>
 
 </head>
@@ -196,7 +207,11 @@
                                     <!-- section title -->
                                     <div class="section-title clearfix mb-10">
                                         <div class="title-header homepageTitle">
-                                            <h5 class="h4Pere">about nutrition</h5>
+                                            <div class="d-flex align-items-center">
+                                                <span class="h4LeftLine"></span>&nbsp; &nbsp;
+                                                    <H4 class="h4Pere p-2">about nutrition</H4>&nbsp;&nbsp;
+                                                <span class="h4LeftLine"></span>
+                                            </div>    
                                             <h2 class="homepageTitle" style="color: #2a2a2a; line-height: 1.2em;">Introducing BC Orchard's Young Coconut Water - Nature's
                                                 Refreshing Elixir!</h2>
                                         </div>
@@ -221,13 +236,16 @@
 
                                 <!-- row-->
                                 <div class="row d-flex align-items-center pt-4">
-                                <button class="ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
+                                <button class="juiceButton ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
                                     <div class="col-md-4 col-sm-4">
                                         
 
                                         <div class="modal" id="myModal" >
-                                            <div class="modal-dialog modal-lg" style="margin: 9% auto">
-                                                <div class="modal-content" style="background: url(img/row-bgimage.jpg)" >
+                                            <div class="modal-dialog modal-lg"  style="margin: 4% 28%">
+                                                <div class="modal-content modelWidth" style="background: #046a38" >
+                                                <div class="modal-header">
+                                                    <button type="button" style="color: #fff" class="close" data-dismiss="modal">&times;</button>
+                                                </div>
                                                 <!-- Modal Body -->
                                                     <div class="modal-body" style="padding: 50px">
                                                         <div class="row">

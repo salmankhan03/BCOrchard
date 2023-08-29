@@ -876,11 +876,16 @@ z-index: 1001;
                                                                 <span class="h4LeftLine"></span>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
+                                                        <div class="elementor-element h3Pere elementor-element-c5bfe75 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" style="color: #000" data-id="c5bfe75" data-element_type="widget" data-widget_type="text-editor.default">
+                                                            <div class="elementor-widget-container h3Pere">
+                                                                At BC Orchard, ware always open to comments in guiding us to become better. Please 
+                                                                connect with us in bringing only the best products to you </div>
+                                                        </div>
+                                                        <!-- <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="70" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%204'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" /><noscript><img width="70" height="4" src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" class="attachment-full size-full" alt="" /></noscript>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                        
                                                         <div class="elementor-element elementor-element-47f6eff elementor-widget__width-initial elementor-widget elementor-widget-bodoni-contactform" data-id="47f6eff" data-element_type="widget" data-widget_type="bodoni-contactform.default">
                                                             <div class="elementor-widget-container">
@@ -900,17 +905,24 @@ z-index: 1001;
                                                                         </div>
                                                                         <div class="row-inline row">
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name*" /></span>
                                                                             </div>
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your email*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Last Name*" /></span>
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="row-inline row">
+                                                                             <div>
+                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email*" /></span>   
+                                                                            </div>
                                                                             <div>
                                                                                 <span class="wpcf7-form-control-wrap your-name"><input type="tel" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
                                                                             </div>
+                                                                            
+                                                                        </div>
+
+                                                                        <div class="">
                                                                             <div  style="margin-top:10px">
                                                                                 <span class="wpcf7-form-control-wrap your-email">
                                                                                 <select class="form-select" style="border-bottom: 1px solid #000" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-label="Default select example">
