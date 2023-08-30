@@ -80,6 +80,39 @@
                 height: auto !important
             }
         }
+
+        .cocoBoxHover {
+            background-color: white;
+        }
+
+        .cocoBoxHover p {
+            color: black;
+        }
+
+        /* Hover styles */
+        .cocoBoxHover:hover {
+            background-color: #9dca00;
+            border: 1px solid #9dca00 !important;
+        }
+
+        .cocoBoxHover:hover p {
+            color: white;
+        }
+
+        /* .cocoBoxHover:hover .firstImg {
+            background: url('img/coco/icon_no_preservatives_hover.svg')
+        }
+        .cocoBoxHover:hover .secondImg {
+            background: url('img/coco/icon_no_sugar_hover.svg')
+        }
+        .cocoBoxHover:hover .thirdImg {
+            background: url('img/coco/icon_calcium_potassium_hover.svg')
+        }
+        .cocoBoxHover:hover .fourthImg {
+            background: url('img/coco/icon_gluten_free_hover.svg')
+        } */
+
+        
     </style>
 
 </head>
@@ -132,25 +165,25 @@
                         <div class="col-md-12">
                             <div class="mt_60 mlr-15 res-991-m-0 mb-20">
                                 <div class="row row-equal-height ttm-bgcolor-white box-shadow1">
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <div class="col-lg-3 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_no_preservatives.svg" alt="No preservatives"></img>
+                                            <img src="img/coco/icon_no_preservatives.svg" class="firstImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                 
                                                 <div >
-                                                    <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">No preservatives, never from concentrate</p>
+                                                    <p class="pereDesc homepageDesc mt-3   text-capitalize text-center iconPara">No preservatives, never from concentrate</p>
                                                 </div>
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <div class="col-lg-3 col-md-12 col-sm-12 cocoBoxHover"  style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_no_sugar.svg" alt="No preservatives"></img>
+                                            <img src="img/coco/icon_no_sugar.svg" class="secondImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                 
@@ -160,11 +193,11 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12 box-shadow1">
+                                    <div class="col-lg-3 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img\coco\icon_calcium_potassium.svg" alt="No preservatives"></img>
+                                            <img src="img\coco\icon_calcium_potassium.svg" class="thirdImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                
@@ -174,11 +207,11 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-3 col-md-12 col-sm-12">
+                                    <div class="col-lg-3 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                            <img src="img/coco/icon_gluten_free.svg" alt="No preservatives"></img>
+                                            <img src="img/coco/icon_gluten_free.svg" class="fourthImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
                                                 
@@ -240,11 +273,11 @@
                                     <div class="col-md-4 col-sm-4">
                                         
 
-                                        <div class="modal" id="myModal" >
-                                            <div class="modal-dialog modal-lg"  style="margin: 4% 28%">
-                                                <div class="modal-content modelWidth" style="background: #046a38" >
-                                                <div class="modal-header">
-                                                    <button type="button" style="color: #fff" class="close" data-dismiss="modal">&times;</button>
+                                        <div class="modal" id="myModal"  style="background-color: rgba(4, 106, 56, 0.8);">
+                                            <div class="modal-dialog modal-lg"  style="margin: 5% 28%;">
+                                                <div class="modal-content modelWidth"  style="background: url(img/row-bgimage.jpg)" >
+                                                <div class="modal-header" style="border-bottom: none !important; padding: 0px 16px !important">
+                                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                 </div>
                                                 <!-- Modal Body -->
                                                     <div class="modal-body" style="padding: 50px">

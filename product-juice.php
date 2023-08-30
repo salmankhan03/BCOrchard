@@ -69,6 +69,24 @@
             position: relative;
             z-index: 8 !important;
         }
+        
+        .cocoBoxHover {
+            background-color: white;
+        }
+
+        .cocoBoxHover p {
+            color: black;
+        }
+
+        /* Hover styles */
+        .cocoBoxHover:hover {
+            background-color: #9dca00;
+            border: 1px solid #9dca00 !important;
+        }
+
+        .cocoBoxHover:hover p {
+            color: white;
+        }
     </style>
 
 </head>
@@ -116,7 +134,7 @@
                         <div class="col-md-12">
                             <div class="mt_60 mlr-15 res-991-m-0 mb-20">
                                 <div class="row row-equal-height ttm-bgcolor-white box-shadow1">
-                                    <div class="col-lg-4 col-md-12 col-sm-12">
+                                    <div class="col-lg-4 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -130,7 +148,7 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-4 col-md-12 col-sm-12">
+                                    <div class="col-lg-4 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -144,7 +162,7 @@
                                             </div>
                                         </div><!-- featured-icon-box end-->
                                     </div>
-                                    <div class="col-lg-4 col-md-12 col-sm-12 box-shadow1">
+                                    <div class="col-lg-4 col-md-12 col-sm-12 cocoBoxHover" style="border: 1px solid #ebeef0;">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
                                             <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
