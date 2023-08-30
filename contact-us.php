@@ -6,11 +6,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <link href="css/style.css" rel="stylesheet">
-   
+
     <link data-minify="1" rel='stylesheet' id='elementor-post-4638-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/uploads/elementor/css/post-4638.css?ver=1634281325' type='text/css' media='all' />
-  
+
     <!-- <link data-minify="1" rel='stylesheet' id='bodoni-style-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/themes/bodoni/style.css?ver=1634281310' type='text/css' media='all' /> -->
-   
+
     <link data-minify="1" rel='stylesheet' id='bodoni-elementor-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/themes/bodoni/assets/css/base/elementor.css?ver=1634281310' type='text/css' media='all' />
 
     <title>Orchard</title>
@@ -18,7 +18,7 @@
     <link rel='stylesheet' id='elementor-frontend-css' href='https://freshdelmonte.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1' media='all' />
     <link rel='stylesheet' id='elementor-post-6-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-6.css?ver=1690172129' media='all' />
     <link rel='stylesheet' id='elementor-post-18-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-18.css?ver=1690172952' media='all' />
-  
+
     <style id="wp-custom-css">
         #elementor-popup-modal-2595 .dialog-widget-content {
             background-color: #fedd00 !important;
@@ -96,7 +96,7 @@
             border-color: var(--e-global-color-secondary);
         }
 
-        .elementor-kit-6 h2{
+        .elementor-kit-6 h2 {
             letter-spacing: unset !important
         }
 
@@ -122,9 +122,9 @@
             background-color: #FFEA5A;
         }
 
-    
 
-        
+
+
 
         .elementor-element.tertiary a {
             font-size: 18px !important;
@@ -214,7 +214,7 @@
             margin-left: -5px;
         }
 
-       
+
 
         /* .main-nav{
 transition: background-color 0.5s ease;
@@ -507,6 +507,7 @@ background: #ffffff;
         .jet-mobile-menu-visible .search-popup.search-light {
             display: inline-block;
         }
+
         #wt-cli-privacy-save-btn {
             border-radius: 200px;
             background: #43B02A;
@@ -528,7 +529,7 @@ left: 0;
 z-index: 1001;
 } */
 
-       
+
 
 
         /* new search */
@@ -554,7 +555,7 @@ z-index: 1001;
             margin-top: 0px;
         }
 
-       
+
 
 
         #elementor-popup-modal-2595 {
@@ -657,7 +658,7 @@ z-index: 1001;
         }
 
 
-       
+
 
 
         /* our progress page */
@@ -769,13 +770,14 @@ z-index: 1001;
             color: #009D59
         }
 
-        .radioBtn{
+        .radioBtn {
             width: 3% !important;
             padding-left: 10px !important;
             margin-top: 16px !important;
-            
+
         }
-        .radioBtnLbm{
+
+        .radioBtnLbm {
             padding-left: 10px !important;
             color: var(--accent) !important;
             font-weight: 400 !important;
@@ -789,9 +791,9 @@ z-index: 1001;
 </head>
 
 <body class="page-template-default page page-id-18 wp-custom-logo jet-desktop-menu-active elementor-default elementor-kit-6 elementor-page elementor-page-18">
-<?php include 'header.php' ?>
+    <?php include 'header.php' ?>
     <main id="content" class="site-main post-18 page type-page status-publish hentry">
-        
+
 
 
         <div class="page-content">
@@ -804,7 +806,7 @@ z-index: 1001;
                                 <div class="elementor-element elementor-element-2dc7802 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="2dc7802" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container" style="width: 125%;">
                                         <h1 class="elementor-heading-title elementor-size-default homepageTitle contct-title imageTitle" style="margin-left: -25%">Connect With Us</h1>
-                                        
+
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-1e0c61f elementor-widget elementor-widget-spacer" data-id="1e0c61f" data-element_type="widget" data-widget_type="spacer.default">
@@ -837,7 +839,6 @@ z-index: 1001;
                                             .e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner {
                                                 height: var(--container-widget-height, var(--spacer-size))
                                             }
-                                        
                                         </style>
                                         <div class="elementor-spacer">
                                             <div class="elementor-spacer-inner"></div>
@@ -872,21 +873,23 @@ z-index: 1001;
                                                         <div class="elementor-element elementor-element-8f369d9 elementor-widget elementor-widget-text-editor" data-id="8f369d9" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container h4Pere">
                                                                 <span class="h4LeftLine"></span> &nbsp;
-                                                                <span >get in touch</span>&nbsp;&nbsp;
+                                                                <span>get in touch</span>&nbsp;&nbsp;
                                                                 <span class="h4LeftLine"></span>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element h3Pere elementor-element-c5bfe75 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" style="color: #000" data-id="c5bfe75" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container h3Pere">
-                                                                At BC Orchard, ware always open to comments in guiding us to become better. Please 
-                                                                connect with us in bringing only the best products to you </div>
+                                                                At BC Orchard, ware always open to comments in guiding
+                                                                us to become better. Please
+                                                                connect with us in bringing only the best products to
+                                                                you </div>
                                                         </div>
                                                         <!-- <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="70" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%204'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" /><noscript><img width="70" height="4" src="https://demo2wpopal.b-cdn.net/bodoni/wp-content/uploads/2021/07/vector.png" class="attachment-full size-full" alt="" /></noscript>
                                                             </div>
                                                         </div> -->
-                                                       
+
                                                         <div class="elementor-element elementor-element-47f6eff elementor-widget__width-initial elementor-widget elementor-widget-bodoni-contactform" data-id="47f6eff" data-element_type="widget" data-widget_type="bodoni-contactform.default">
                                                             <div class="elementor-widget-container">
                                                                 <div role="form" class="wpcf7" id="wpcf7-f5584-p4638-o1" lang="en-US" dir="ltr">
@@ -894,7 +897,7 @@ z-index: 1001;
                                                                         <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                                         <ul></ul>
                                                                     </div>
-                                                                    <form action="/bodoni/contact/#wpcf7-f5584-p4638-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                                                                    <form action="send-mail.php" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                                                                         <div style="display: none;">
                                                                             <input type="hidden" name="_wpcf7" value="5584" />
                                                                             <input type="hidden" name="_wpcf7_version" value="5.4.2" />
@@ -905,91 +908,98 @@ z-index: 1001;
                                                                         </div>
                                                                         <div class="row-inline row">
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="first_name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name*" /></span>
                                                                             </div>
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Last Name*" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="text" name="last_name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Last Name*" /></span>
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="row-inline row">
-                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email*" /></span>   
+                                                                            <div>
+                                                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email*" /></span>
                                                                             </div>
                                                                             <div>
-                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="tel" name="your-name" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
+                                                                                <span class="wpcf7-form-control-wrap your-name"><input type="tel" name="contact_no" value="" style="border-bottom: 1px solid #000" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" /></span>
                                                                             </div>
-                                                                            
+
                                                                         </div>
 
                                                                         <div class="">
-                                                                            <div  style="margin-top:10px">
+                                                                            <div style="margin-top:10px">
                                                                                 <span class="wpcf7-form-control-wrap your-email">
-                                                                                <select class="form-select" style="border-bottom: 1px solid #000" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-label="Default select example">
-                                                                                <option value="us" selected>Select Country</option>
-                                                                                <option value="us">United States</option>
-                                                                                <option value="ca">Canada</option>
-                                                                                <option value="uk">United Kingdom</option>
-                                                                                <option value="au">Australia</option>
-                                                                                </select></span>
+                                                                                    <select class="form-select" style="border-bottom: 1px solid #000" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-label="Default select example" name="country">
+                                                                                        <option value="" selected>
+                                                                                            Select Country</option>
+                                                                                        <option value="Canada">United States
+                                                                                        </option>
+                                                                                        <option value="Canada">Canada
+                                                                                        </option>
+                                                                                        <option value="United
+                                                                                            Kingdom">United
+                                                                                            Kingdom</option>
+                                                                                        <option value="Australia">Australia
+                                                                                        </option>
+                                                                                    </select></span>
                                                                             </div>
                                                                         </div>
 
-                                                                        <label class="form-check-label contact-label" for="flexRadioDefault1" >
-                                                                           This Is a...
+                                                                        <label class="form-check-label contact-label" for="flexRadioDefault1">
+                                                                            This Is a...
                                                                         </label>
 
                                                                         <div style="width: inherit">
                                                                             <div class="d-flex">
-                                                                                
+
                                                                                 <div>
-                                                                                        <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="msg_type" id="flexRadioDefault1" value="Comment">
                                                                                     <label class="form-check-label radioBtnLbm" style="margin-left: 10px" for="flexRadioDefault1">
                                                                                         Comment
                                                                                     </label>
-                                                                                </div>   
+                                                                                </div>
                                                                                 <div>
-                                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <input class="form-check-input radioBtn" type="radio" name="msg_type" id="flexRadioDefault1" value="Inquiry">
                                                                                     <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
                                                                                         Inquiry
                                                                                     </label>
-                                                                                </div> 
+                                                                                </div>
                                                                                 <div>
-                                                                                        <input class="form-check-input radioBtn" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                                                    <input class="form-check-input radioBtn" type="radio" name="msg_type" id="flexRadioDefault1" value="Concern">
                                                                                     <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
                                                                                         Concern
                                                                                     </label>
-                                                                                </div> 
-                                                                            </div> 
-                                                                        <div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>
 
-                                                                        
 
-                                                                        
 
-                                                                       
-                                                                      
-                                                                        <!-- <div class="row-inline row"> -->
-                                                                            <!-- <div class="form-check"> -->
-                                                                                
-                                                                            <!-- </div> -->
-                                                                            <!-- <div class="form-check">
+
+
+
+
+                                                                                <!-- <div class="row-inline row"> -->
+                                                                                <!-- <div class="form-check"> -->
+
+                                                                                <!-- </div> -->
+                                                                                <!-- <div class="form-check">
                                                                                 <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
                                                                                 <label class="form-check-label" for="flexRadioDefault2">
                                                                                     Default checked radio
                                                                                 </label>
                                                                             </div> -->
-                                                                        <!-- </div> -->
-                                                                        
-                                                                        <div>
-                                                                            <span class="wpcf7-form-control-wrap textarea"><textarea name="textarea" style="border-bottom: 1px solid #000" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
-                                                                        </div>
-                                                                        <div class="text-center">
-                                                                            <a class="juiceButton" type="submit" value="book now">Send
-                                                                                message<i class="bodoni-icon-arrow-small"></i><br />
-                                        </a>
-                                                                        </div>
-                                                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                                                <!-- </div> -->
+
+                                                                                <div>
+                                                                                    <span class="wpcf7-form-control-wrap textarea"><textarea name="message" style="border-bottom: 1px solid #000" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
+                                                                                </div>
+                                                                                <div class="text-center">
+                                                                                    <a value="book now"><button style="background-color: #9dca00;" name="send_message">Send
+                                                                                            message<i class="bodoni-icon-arrow-small"></i><br />
+                                                                                        </button>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
                                                                     </form>
                                                                 </div>
                                                             </div>
@@ -1016,4 +1026,5 @@ z-index: 1001;
 
 
 </body>
+
 </html>
