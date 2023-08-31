@@ -19,12 +19,12 @@ if (!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST
 
     $mail->setFrom('smitd@intellidt.com');
     $mail->addAddress('smitd@intellidt.com');
-    $mail->Subject = 'BC Orachard Contact ';
+    $mail->Subject = 'BC Orachard Contact Form';
     $mail->isHTML(TRUE);
 
     $message =  preg_replace("/&#?[a-z0-9]{2,8};/i", "", $_POST['message']);
 
-    $mail->Body = "<html>First Name:- {$_POST['first_name']} <br>Last Name:- {$_POST['last_name']} </br> <br>Email:- {$_POST['email']} </br><br>Contact No:- {$_POST['contact_no']} </br><br>Country:- {$_POST['country']} </br><br>Message Type:- {$_POST['msg_type']} </br><br>Message :- {$message} </br></html>";
+    $mail->Body = "<html><b>First Name:-</b> {$_POST['first_name']} <br><b>Last Name:-</b> {$_POST['last_name']} </br> <br><b>Email:-</b> {$_POST['email']} </br><br><b>Contact No:-</b> {$_POST['contact_no']} </br><br><b>Country:-</b> {$_POST['country']} </br><br><b>Message Type:-</b> {$_POST['msg_type']} </br><br><b>Message :-</b> {$message} </br></html>";
 
 
     // send the message
