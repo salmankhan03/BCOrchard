@@ -925,24 +925,7 @@ z-index: 1001;
 
                                                                         </div>
 
-                                                                        <div class="">
-                                                                            <div style="margin-top:10px">
-                                                                                <span class="wpcf7-form-control-wrap your-email">
-                                                                                    <select class="form-select" style="border-bottom: 1px solid #000" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-label="Default select example" name="country">
-                                                                                        <option value="" selected>
-                                                                                            Select Country</option>
-                                                                                        <option value="Canada">United States
-                                                                                        </option>
-                                                                                        <option value="Canada">Canada
-                                                                                        </option>
-                                                                                        <option value="United
-                                                                                            Kingdom">United
-                                                                                            Kingdom</option>
-                                                                                        <option value="Australia">Australia
-                                                                                        </option>
-                                                                                    </select></span>
-                                                                            </div>
-                                                                        </div>
+
 
                                                                         <label class="form-check-label contact-label" for="flexRadioDefault1">
                                                                             This Is a...

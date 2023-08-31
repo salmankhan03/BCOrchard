@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-if (!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST['email']) && !empty($_POST['contact_no']) && !empty($_POST['country']) && !empty($_POST['msg_type']) && !empty($_POST['message'])) {
+if (!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST['email']) && !empty($_POST['contact_no']) && !empty($_POST['msg_type']) && !empty($_POST['message'])) {
     $mail = new PHPMailer(true);
 
     $mail->isSMTP();
@@ -24,7 +24,7 @@ if (!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST
 
     $message =  preg_replace("/&#?[a-z0-9]{2,8};/i", "", $_POST['message']);
 
-    $mail->Body = "<html><b>First Name:-</b> {$_POST['first_name']} <br><b>Last Name:-</b> {$_POST['last_name']} </br> <br><b>Email:-</b> {$_POST['email']} </br><br><b>Contact No:-</b> {$_POST['contact_no']} </br><br><b>Country:-</b> {$_POST['country']} </br><br><b>Message Type:-</b> {$_POST['msg_type']} </br><br><b>Message :-</b> {$message} </br></html>";
+    $mail->Body = "<html><b>First Name:-</b> {$_POST['first_name']} <br><b>Last Name:-</b> {$_POST['last_name']} </br> <br><b>Email:-</b> {$_POST['email']} </br><br><b>Contact No:-</b> {$_POST['contact_no']} </br><br><b>Message Type:-</b> {$_POST['msg_type']} </br><br><b>Message :-</b> {$message} </br></html>";
 
 
     // send the message
