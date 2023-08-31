@@ -18,7 +18,7 @@ if (!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST
     $mail->Port = 587;
 
     $mail->setFrom('smitd@intellidt.com');
-    $mail->addAddress('smitd@intellidt.com');
+    $mail->addAddress('sal@intellidt.com');
     $mail->Subject = 'BC Orachard Contact Form';
     $mail->isHTML(TRUE);
 
