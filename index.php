@@ -38,7 +38,7 @@
       background-size: cover;
       height: 100vh; /* Adjust the height as needed */
     }
-    
+
     /* Style for the overlay content */
     .overlay-content {
       position: absolute;
@@ -47,7 +47,7 @@
       transform: translateY(-50%);
       color: #fff;
     }
-    
+
     /* Add more styling as needed */
     .overlay-content h1 {
       font-size: 3rem;
@@ -55,12 +55,12 @@
       letter-spacing: unset;
       margin-bottom: 10px;
     }
-    
+
     .overlay-content p {
       font-size: 1.5rem;
       margin-bottom: 20px;
     }
-    
+
     .overlay-content .btn {
       font-size: 1rem;
     }
@@ -408,7 +408,7 @@ dataLayer.push(dataLayer_content); //]]>
     content="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-270x270.jpg" />
 <script type="text/javascript">
 function setREVStartSize(e) {
-    //window.requestAnimationFrame(function() {				 
+    //window.requestAnimationFrame(function() {
     window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
     window.RSIH = window.RSIH === undefined ? window.innerHeight : window.RSIH;
     try {
@@ -474,7 +474,7 @@ function setREVStartSize(e) {
     itemscope itemtype="https://schema.org/WebPage">
     <div id="qodef-page-wrapper" class="">
 
-        
+
         <div id="qodef-page-outer">
             <div id="" class="qodef-content-full-width">
                 <main id="qodef-page-content" class="qodef-grid qodef-layout--template ">
@@ -514,7 +514,7 @@ function setREVStartSize(e) {
                                                                                     <div class="qodef-e-inner">
                                                                                         <div class="qodef-e-border">
                                                                                         </div>
-                                                                                       
+
                                                                                         <div
                                                                                             class="qodef-e-media-image">
                                                                                             <img width="1000"
@@ -615,7 +615,7 @@ function setREVStartSize(e) {
                                                                                                         style="margin: 0% 0% 3.3% 0%">
                                                                                                         Freshness You Can Taste
                                                                                                     </h2>
-                                                                                                    <p class="homepageDesc"
+                                                                                                    <p class="homepageDesc text-center"
                                                                                                         style="margin: 0% 12%">
                                                                                                         We carefully select ingredients to offer you only the
                                                                                                         authentic flavors to shine through, creating an incredibly delightful experience that you
@@ -767,13 +767,13 @@ function setREVStartSize(e) {
                 </main>
             </div>
         </div>
-   
-    
+
+
         <?php include 'footer.php'; ?>
     <script type="text/javascript">
     var sbiajaxurl = "https://singlemalt.qodeinteractive.com/wp-admin/admin-ajax.php";
     </script>
-    
+
 
     <script type='text/javascript'
         src='https://singlemalt.qodeinteractive.com/wp-content/themes/singlemalt/assets/js/main.min.js?ver=5.5.12'

@@ -112,14 +112,14 @@
             background: url('img/coco/icon_gluten_free_hover.svg')
         } */
 
-        
+
     </style>
 
 </head>
 
 <body>
 
-   
+
     <!--page start-->
     <div class="page">
     <?php include 'header.php'; ?>
@@ -140,7 +140,7 @@
                             Welcome to Nutricare
                         </div> -->
 
-                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['45','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption imageTitle main-font tp-resizeme h1Pere px-3" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['30','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                         Coconut Water</div>
 
                         <div class="tp-caption homepageBannerDesc tp-resizeme" style="color: #fff !important; font-size: 1.5rem !important;" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['24','24','15','12']" data-lineheight="['140','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
@@ -172,7 +172,7 @@
                                             <img src="img/coco/icon_no_preservatives.svg" class="firstImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                
+
                                                 <div >
                                                     <p class="pereDesc homepageDesc mt-3   text-capitalize text-center iconPara">No preservatives, never from concentrate</p>
                                                 </div>
@@ -186,7 +186,7 @@
                                             <img src="img/coco/icon_no_sugar.svg" class="secondImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                
+
                                                 <div class="">
                                                     <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">No sugar added</p>
                                                 </div>
@@ -200,7 +200,7 @@
                                             <img src="img\coco\icon_calcium_potassium.svg" class="thirdImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                               
+
                                                 <div class="">
                                                     <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">A source of calcium and potassium</p>
                                                 </div>
@@ -214,7 +214,7 @@
                                             <img src="img/coco/icon_gluten_free.svg" class="fourthImg" alt="No preservatives"></img>
                                             </div>
                                             <div class="featured-content">
-                                                
+
                                                 <div class="">
                                                     <p class="pereDesc homepageDesc mt-3  text-capitalize text-center iconPara">Gluten, fat, and cholesterol-free</p>
                                                 </div>
@@ -244,7 +244,7 @@
                                                 <span class="h4LeftLine"></span>&nbsp; &nbsp;
                                                     <H4 class="h4Pere p-2">about nutrition</H4>&nbsp;&nbsp;
                                                 <span class="h4LeftLine"></span>
-                                            </div>    
+                                            </div>
                                             <h2 class="homepageTitle" style="color: #2a2a2a; line-height: 1.2em;">Introducing BC Orchard's Young Coconut Water - Nature's
                                                 Refreshing Elixir!</h2>
                                         </div>
@@ -271,16 +271,16 @@
                                 <div class="row d-flex align-items-center pt-4">
                                 <button class="juiceButton ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
                                     <div class="col-md-4 col-sm-4">
-                                        
 
-                                        <div class="modal" id="myModal"  style="background-color: rgba(4, 106, 56, 0.8);">
+
+                                        <div class="modal" id="myModal"  style="background-color: rgba(4, 106, 56, 0.95);">
                                             <div class="modal-dialog modal-lg"  style="margin: 5% 28%;">
                                                 <div class="modal-content modelWidth"  style="background: url(img/row-bgimage.jpg)" >
                                                 <div class="modal-header" style="border-bottom: none !important; padding: 0px 16px !important">
-                                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                    <button type="button" class="close" data-dismiss="modal" style="padding-top: 25px;">&times;</button>
                                                 </div>
                                                 <!-- Modal Body -->
-                                                    <div class="modal-body" style="padding: 50px">
+                                                    <div class="modal-body" style="padding: 50px 50px 75px 50px">
                                                         <div class="row">
                                                             <div class="col-md-6 col-sm-12 d-flex flex-column text-center align-items-center justify-content-center">
                                                                 <div class="d-flex align-items-center">
@@ -288,12 +288,12 @@
                                                                         <H4 class="h4Pere p-2">Ingredient</H4>&nbsp;&nbsp;
                                                                     <span class="h4LeftLine"></span>
                                                                 </div>
-                                                                <H3 style="font-size:30px !important; color: #000; font-weight: bold" class="h3Pere p-2">100% Pure Coconut Water</H3>
-                                                                <H6 style="font-size:30px !important" class="h6Pere p-2">Nothing more, nothing less</H6>
+                                                                <H3 style="font-size:30px !important; color: #000; font-weight: bold" class="h3Pere p-2">100% Pure <br/> Coconut Water</H3>
+                                                                <H6 style="font-size:30px !important" class="h6Pere p-2">Nothing more,<br/> nothing less</H6>
                                                             </div>
 
                                                             <div class="col-md-6 col-sm-12">
-                                                                <img class="img-fluid" src="img/coco/nutrition_label.jpg" alt="">
+                                                                <img class="img-fluid" src="img/coco/nutrition_label.jpg" alt="" style="box-shadow: 1px 1px 5px #000;">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -330,7 +330,7 @@
                         <!-- section title -->
                         <div class="row-title style2 clearfix">
                             <div class="title-header">
-                                <h2 class="title homepageTitle mb-15" style="color: #fff">Meet your goals efficiently</h2>
+                                <h2 class="title homepageTitle mb-15" style="color: #fff; font-weight:bold; text-transform: capitalize;">Meet your goals efficiently</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

@@ -122,13 +122,13 @@ li>ul {
 }
 
 .navbar .dropdown-toggle::after {
-    border: none;
-    content: "";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    vertical-align: middle;
-    margin-left: 8px;
-    display: contents;
+  border: none;
+  content: "";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  vertical-align: middle;
+  margin-left: 8px;
+  display: contents;
 }
 
 .navbar-nav .nav-link {
@@ -143,7 +143,7 @@ li>ul {
   left: 0;
   width: 0;
   height: 2px;
-  background-color: #9dca00; 
+  background-color: #9dca00;
   transition: width 0.3s;
 }
 
@@ -176,14 +176,14 @@ li>ul {
 
 @media (min-width: 992px) {
   .navbar .nav-item .dropdown-menu {
-        display: block;
-        border: none;
-        margin-top: 0;
-        top: 150%;
-        opacity: 0;
-        visibility: hidden;
-        transition: .5s;
-    }
+    display: block;
+    border: none;
+    margin-top: 0;
+    top: 150%;
+    opacity: 0;
+    visibility: hidden;
+    transition: .5s;
+  }
 
   .navbar .nav-item:hover .dropdown-menu {
     top: 100%;
@@ -211,7 +211,7 @@ li>ul {
 
 .page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(../img/carousel-1.jpg) center center no-repeat;
+  url(../img/carousel-1.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -263,12 +263,11 @@ body, html {
   text-align: center;
   color: #fff; /* Change color to match your design */
 }
-.imageTitle{
+.imageTitle {
   font-size: 72px;
   font-weight: bold !important;
   letter-spacing: 0.02em !important;
-  text-shadow: 3px 2px 14px #000 !important;
-
+  text-shadow: 2px 2px 5px #000 !important;
 }
 
 .imageDesc{
@@ -280,7 +279,7 @@ body, html {
 }
 
 .description{
-  font-family: 'Avenir', sans-serif;   
+  font-family: 'Avenir', sans-serif;
 }
 
 .pereDescTitle{
@@ -297,9 +296,9 @@ body, html {
 
 @media only screen and (max-width: 768px) {
   .image-overlay {
-      position: absolute;
-      text-align: center;
-      color: #fff; /* Change color to match your design */
+    position: absolute;
+    text-align: center;
+    color: #fff; /* Change color to match your design */
   }
 
   .image-overlay-about {
@@ -312,7 +311,7 @@ body, html {
     flex-direction: column;
     align-items: center;
     color: #fff; /* Change color to match your design */
-}
+  }
 
   .imageTitle{
     font-size: 25px;
@@ -344,7 +343,7 @@ body, html {
 
 @media (max-width: 768px) {
   .image-container {
-      margin-bottom: 10px;
+    margin-bottom: 10px;
   }
 }
 
@@ -386,12 +385,12 @@ body, html {
 }
 
 .homepageDesc{
-  font-family: 'Avenir', sans-serif !important; 
+  font-family: 'Avenir', sans-serif !important;
   text-align: justify;
 }
 
 .homepageBannerDesc{
-  font-family: 'Avenir', sans-serif !important; 
+  font-family: 'Avenir', sans-serif !important;
   color: #fff !important;
   font-size: 1.5rem;
 }
@@ -468,20 +467,20 @@ body, html {
 
 .elementor-2321 .elementor-element.elementor-element-e1c5d50 {
 
-    max-width: 54.495% !important;
-    --container-widget-width: 54.495% !important;
-    --container-widget-flex-grow: 0;
+  max-width: 54.495% !important;
+  --container-widget-width: 54.495% !important;
+  --container-widget-flex-grow: 0;
 }
 .contact-label{
-    width: 100%;
-    font-size: 12px;
-    font-weight: 400;
-    color: var(--accent);
-    background-color: transparent;
-    border-color: var(--accent);
-    border-width: 0 0 1px;
-    padding: 15px 0 0 0;
-    margin-top: 45px !important;
-    text-transform: uppercase;
-    letter-spacing: .2em;
+  width: 100%;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--accent);
+  background-color: transparent;
+  border-color: var(--accent);
+  border-width: 0 0 1px;
+  padding: 15px 0 0 0;
+  margin-top: 45px !important;
+  text-transform: uppercase;
+  letter-spacing: .2em;
 }
