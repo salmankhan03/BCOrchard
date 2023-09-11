@@ -367,6 +367,14 @@ body, html {
 
 }
 
+.main-header .logo-outer .logo img {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  height: 58px;
+  width: 90px;
+}
+
 
 /* --------------------------------------------------Home page font styling------------------------------------------- */
 
