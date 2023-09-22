@@ -26,6 +26,16 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<style>
+    .fixed-header .header-upper,
+    .fixed-header{
+        position: fixed !important;
+        left: 0px !important;
+        top: 0px !important;
+        width: 100% !important;
+    }
+</style>
 </head>
 
 <body>

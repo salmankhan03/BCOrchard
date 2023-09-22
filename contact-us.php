@@ -977,10 +977,9 @@ z-index: 1001;
                                                                                     <span class="wpcf7-form-control-wrap textarea"><textarea name="message" style="border-bottom: 1px solid #000" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
                                                                                 </div>
                                                                                 <div class="text-center">
-                                                                                    <a value="book now"><button style="background-color: #9dca00;" name="send_message">Send
-                                                                                            message<i class="bodoni-icon-arrow-small"></i><br />
-                                                                                        </button>
-                                                                                    </a>
+                                                                                <button name="send_message" class="juiceButton ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="send_message">Send
+                                                                                            message</button>
+                                                                            
                                                                                 </div>
                                                                                 <div class="wpcf7-response-output" aria-hidden="true"></div>
                                                                     </form>
