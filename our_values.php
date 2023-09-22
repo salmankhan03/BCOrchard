@@ -1182,7 +1182,7 @@ z-index: 1001;
                                                                 <h3 class="elementor-image-box-title">Communication</h3>
                                                                 <p class="pereDesc homepageDesc iconPara "> We foster
                                                                     open communication to cultivate a positive and
-                                                                    learningoriented work environment. We believe in
+                                                                    learning oriented work environment. We believe in
                                                                     creating a space where ideas are freely
                                                                     shared, feedback is welcomed, and collaboration
                                                                     thrives.</p>
