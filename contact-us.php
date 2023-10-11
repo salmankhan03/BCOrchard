@@ -847,7 +847,7 @@ z-index: 1001;
                                 </div>
                                 <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container homepageDesc">
-                                        <p class="homepageBannerDesc" style="color:white">We want to hear From You</p>
+                                        <p class="homepageBannerDesc" style="color:white; text-align:center;">We want to hear From You</p>
                                     </div>
                                 </div>
                             </div>
@@ -879,10 +879,8 @@ z-index: 1001;
                                                         </div>
                                                         <div class="elementor-element h3Pere elementor-element-c5bfe75 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" style="color: #000" data-id="c5bfe75" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container h3Pere">
-                                                                At BC Orchard, ware always open to comments in guiding
-                                                                us to become better. Please
-                                                                connect with us in bringing only the best products to
-                                                                you </div>
+                                                                At BC Orchard, ware always open to comments in guiding us to become better. <br>
+                                                                Please connect with us in bringing only the best products to you </div>
                                                         </div>
                                                         <!-- <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">

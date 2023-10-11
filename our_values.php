@@ -1197,7 +1197,7 @@ z-index: 1001;
                                                 <div class="elementor-element elementor-element-bac5ef2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="bac5ef2" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure style="width: 20%; margin-bottom: 40px"><img decoding="async" src="img/values/BCO_icon_excellence.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
+                                                            <figure style="width: 20%; margin-bottom: 40px"><img decoding="async" src="img/values/BCO_icon_passion.svg" title="del monte career passion" alt="del monte career passion logo" loading="lazy" /></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Passion</h3>
                                                                 <p class="pereDesc homepageDesc iconPara ">We are deeply
