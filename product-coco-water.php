@@ -220,8 +220,7 @@
                                         <div class="title-header homepageTitle">
                                             <div class="d-flex align-items-center">
                                                 <span class="h4LeftLine"></span>&nbsp; &nbsp;
-                                                    <H4 class="h4Pere p-2">about nutrition</H4>&nbsp;&nbsp;
-                                                <span class="h4LeftLine"></span>
+                                                    <H4 class="h4Pere p-2">about nutrition</H4>
                                             </div>
                                             <h2 class="homepageTitle" style="color: #2a2a2a; line-height: 1.2em;">Introducing BC Orchard's Young Coconut Water - Nature's
                                                 Refreshing Elixir!</h2>
@@ -251,9 +250,11 @@
                                     <div class="col-md-4 col-sm-4">
 
 
-                                        <div class="modal" id="myModal"  style="background-color: rgba(4, 106, 56, 0.95);">
+                                        <div class="modal" id="myModal"  style="background-color: rgba(0, 28, 14, 0.95);">
                                             <div class="modal-dialog modal-lg"  style="margin: 5% 28%;">
-                                                <div class="modal-content modelWidth"  style="background: url(img/row-bgimage.jpg)" >
+                                                <div class="modal-content modelWidth">
+                                                <!--<div class="modal-content modelWidth"  style="background: url(img/row-bgimage.jpg)" >-->
+
                                                 <div class="modal-header" style="border-bottom: none !important; padding: 0px 16px !important">
                                                     <button type="button" class="close" data-dismiss="modal" style="padding-top: 25px;">&times;</button>
                                                 </div>
@@ -268,6 +269,8 @@
                                                                 </div>
                                                                 <H3 style="font-size:30px !important; color: #000; font-weight: bold" class="h3Pere p-2">100% Pure <br/> Coconut Water</H3>
                                                                 <H6 style="font-size:30px !important" class="h6Pere p-2">Nothing more,<br/> nothing less</H6>
+                                                                <img class="img-fluid mt-2" src="img/coco/product_coconut_bottle.png" alt="BCO coconut water" width="100%" >
+
                                                             </div>
 
                                                             <div class="col-md-6 col-sm-12">
@@ -326,7 +329,7 @@
                             <!-- customer-slide-->
                             <div class="customer-slide owl-carousel owl-theme owl-loaded" data-item="1" data-nav="true" data-dots="true" data-auto="false">
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="img/coco/product_coconut_2.jpg" alt="">
+                                    <img class="img-fluid" src="img/coco/product_coconut_2.png" alt="">
                                 </div>
                             </div><!-- customer-slide end-->
                         </div>

@@ -80,7 +80,7 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
                                     <li class="dropdown"><a id="products" href="product-coco-water.php">Products</a>
                                         <ul>
                                             <li><a href="product-coco-water.php">Coconut Water</a></li>
-                                            <li><a href="product-juice.php" style="padding-bottom: 15px">BCO Juices</a></li>
+                                            <li><a href="product-juice.php" style="padding-bottom: 15px">100% Pure Juices</a></li>
                                         </ul>
                                     </li>
                                     <li class=""><a id="contact" href="contact-us.php">Contact</a>

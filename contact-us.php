@@ -869,8 +869,9 @@ z-index: 1001;
                                         <section class="elementor-section elementor-top-section elementor-element elementor-element-adde057 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="adde057" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;};" style="margin-top: 80px;">
                                             <div class="elementor-container elementor-column-gap-no">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea6699f" data-id="ea6699f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-widget-wrap elementor-element-populated" style="padding: 70px 30px 70px;">
+                                                    <div class="elementor-widget-wrap elementor-element-populated" style="padding: 70px 30px 70px; background:transparent;">
                                                         <div class="elementor-element elementor-element-8f369d9 elementor-widget elementor-widget-text-editor" data-id="8f369d9" data-element_type="widget" data-widget_type="text-editor.default">
+                                                     
                                                             <div class="elementor-widget-container h4Pere">
                                                                 <span class="h4LeftLine"></span> &nbsp;
                                                                 <span>get in touch</span>&nbsp;&nbsp;
@@ -878,8 +879,8 @@ z-index: 1001;
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element h3Pere elementor-element-c5bfe75 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" style="color: #000" data-id="c5bfe75" data-element_type="widget" data-widget_type="text-editor.default">
-                                                            <div class="elementor-widget-container h3Pere">
-                                                                At BC Orchard, ware always open to comments in guiding us to become better. <br>
+                                                            <div class="elementor-widget-container h3Pere" style="color: #2a2a2a; font-weight: 600;line-height: 1.5em;font-size: 1.5rem;">
+                                                                At BC Orchard, we are always open to comments in guiding us to become better. <br>
                                                                 Please connect with us in bringing only the best products to you </div>
                                                         </div>
                                                         <!-- <div class="elementor-element elementor-element-7ea621c elementor-widget elementor-widget-image" data-id="7ea621c" data-element_type="widget" data-widget_type="image.default">
