@@ -37,6 +37,8 @@
             padding: 0 !important;
         }
     </style>
+    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
     <link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://freshdelmonte.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1' media='all' />
     <link rel='stylesheet' id='jet-menu-hello-css' href='https://freshdelmonte.com/wp-content/plugins/jet-menu/integration/themes/hello-elementor/assets/css/style.css?ver=2.4.0' media='all' />
     <link rel='stylesheet' id='wp-block-library-css' href='https://freshdelmonte.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />
@@ -1333,6 +1335,9 @@ z-index: 1001;
             background-position: center center;
             background-size: cover;
         }
+        .page-title:before {
+            background-image: none !important
+        }
     </style>
 </head>
 
@@ -1346,70 +1351,13 @@ z-index: 1001;
 
         <div class="page-content">
             <div data-elementor-type="wp-page" data-elementor-id="2321" class="elementor elementor-2321" data-elementor-post-type="page">
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-5fdbef9 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5fdbef9" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[{&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;_id&quot;:&quot;d24bf6a&quot;,&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}],&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8f727" data-id="3b8f727" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <section class="elementor-section elementor-inner-section elementor-element elementor-element-f138d92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f138d92" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[{&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;_id&quot;:&quot;9503a87&quot;,&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}],&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9191fcb" data-id="9191fcb" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-e1c5d50 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="e1c5d50" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h1 class="imageTitle elementor-size-default title">Our Philosophy
-                                                        </h1>
-                                                    </div>
-                                                  
-                                                <div class="elementor-element elementor-element-f7985c1 elementor-widget elementor-widget-spacer" data-id="f7985c1" data-element_type="widget" data-widget_type="spacer.default">
-                                                    <div class="elementor-widget-container">
-                                                        <style>
-                                                            /*! elementor - v3.14.0 - 26-06-2023 */
-                                                            .elementor-column .elementor-spacer-inner {
-                                                                height: var(--spacer-size)
-                                                            }
-
-                                                            .e-con {
-                                                                --container-widget-width: 100%
-                                                            }
-
-                                                            .e-con-inner>.elementor-widget-spacer,
-                                                            .e-con>.elementor-widget-spacer {
-                                                                width: var(--container-widget-width, var(--spacer-size));
-                                                                --align-self: var(--container-widget-align-self, initial);
-                                                                --flex-shrink: 0
-                                                            }
-
-                                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container,
-                                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,
-                                                            .e-con>.elementor-widget-spacer>.elementor-widget-container,
-                                                            .e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer {
-                                                                height: 100%
-                                                            }
-
-                                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,
-                                                            .e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner {
-                                                                height: var(--container-widget-height, var(--spacer-size))
-                                                            }
-                                                        </style>
-                                                        <div class="elementor-spacer">
-                                                            <div class="elementor-spacer-inner"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                  <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <p class="homepageBannerDesc"> Delivering the freshness You deserve</p>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+            <section class="page-title img-fluid" style="background-image:url(img/philosophy/banner_philosophy.jpg)">
+                <div Style="height: 510px"></div>
+                <div class="image-overlay-about">
+                    <h1 class="imageTitle title">Our Philosophy</h1>
+                    <p class="homepageBannerDesc description"> Delivering the freshness You deserve</p>
+                </div>
+            </section>
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-16c606a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16c606a" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[{&quot;_id&quot;:&quot;ecd83db&quot;,&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}],&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-container elementor-column-gap-default">
 
@@ -1535,13 +1483,13 @@ z-index: 1001;
                                                         To be the leading provider of premium quality,</h4>
                                                         <h4 class="homepageTitle text-center elementor-size-default mb-4">
                                                         natural products in British Columbia and beyond.</h4>
-                                                        <p class="homepageDesc pereDesc" style="color: #555 !important" >We envision a future where individuals can enjoy flavorful drinks and snacks
+                                                        <p class="homepageDesc pereDesc" style="color: #555 !important; padding: 10px" >We envision a future where individuals can enjoy flavorful drinks and snacks
                                                             that not only satisfy their taste buds but also align with their health-conscious lifestyles.
                                                             We aspire to create a diverse range of refreshing and nourishing products that cater to
                                                             various preferences and dietary needs. 
                                                             </p>
 
-                                                        <p class="homepageDesc pereDesc" style="color: #555 !important">Through our unwavering commitment to quality, transparency,
+                                                        <p class="homepageDesc pereDesc" style="color: #555 !important; padding: 10px">Through our unwavering commitment to quality, transparency,
                                                             and sustainability, we
                                                             aim to inspire and educate consumers to make informed
                                                             choices that support their

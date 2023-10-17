@@ -15,6 +15,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.cdnfonts.com/css/georgia?styles=27676" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
 
     <!-- Icon Font Stylesheet -->
@@ -32,27 +34,24 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <style>
+        .page-title:before {
+            background-image: none !important
+        }
+    </style>
     
 </head>
 
 <body>
 <?php include 'header.php'; ?>
-    <div class="container-fluid about">
-        <div class="row">
-        <div class="col-sm-12 p-0">
-            <div class="image-container">
-            <!-- Add your image here -->
-            <img src="img/banner_about.jpg" alt="Home Image" class="img-fluid">
-            <!-- Add title and description here -->
-            <div class="image-overlay-about">
-                <h1 class="imageTitle title">About Us</h1>
-                <p class="homepageBannerDesc description">At BC Orchard, we are more than just a group of individuals; we are a family united by
-                    a shared passion for excellence.</p>
-            </div>
-            </div>
+    <section class="page-title img-fluid" style="background-image:url(img/banner_about.jpg)">
+        <div Style="height: 510px"></div>
+        <div class="image-overlay-about">
+            <h1 class="imageTitle title">About Us</h1>
+            <p class="homepageBannerDesc description">At BC Orchard, we are more than just a group of individuals; we are a family united by
+                a shared passion for excellence.</p>
         </div>
-        </div>
-    </div>
+    </section>
 
     <div class="container mt-5  pt-3 mb-5 pb-3">
         <div class="row">

@@ -34,6 +34,9 @@
     <!-- flaticon -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/flaticon.css" />
 
+    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+
     <!-- REVOLUTION LAYERS STYLES -->
 
     <!-- <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/revolution/css/layers.css">
@@ -91,6 +94,42 @@
             border-right: none;
         }
 
+        .page-title {
+            position: relative;
+            padding: 0px !important;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: right center;
+        }
+
+        @media (max-width: 900px) {
+            .modal-dialog {
+                margin: 30% 17% !important;
+                overflow-x: auto;
+                height: 83%;
+            }
+        }
+    
+
+        @media (max-width: 990px) {
+            .page-title {
+                position: relative;
+                padding: 95px 0px 95px !important;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: right center;
+            }
+        }
+
+        @media (max-width: 990px) {
+            .homepageBannerDesc  {
+                transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 80, 0, 1) !important;
+            }
+        }
+        .page-title:before {
+            background-image: none !important
+        }
+
     </style>
 
 </head>
@@ -102,22 +141,17 @@
     <div class="page">
     <?php include 'header.php'; ?>
 
-      <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
-            <!-- START REVOLUTION SLIDER 5.4.8 auto mode -->
+    <section class="page-title img-fluid" style="background-image:url(img/coco/banner_cococnut.jpg)">
+        
+        <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
+           
 
             <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" data-version="5.4.8.1">
 
             <ul>
                     <li data-index="rs-13" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                        <img src="img/coco/banner_cococnut.jpg" alt="" title="mainslider-bg003" width="1920" height="760"  data-no-retina>
-
-
-
-                        <!-- <div class="tp-caption tp-resizeme" id="slide-1-layer-2" data-x="['left','left','center','center']" data-hoffset="['107','107','0','0']" data-y="['top','top','middle','middle']" data-voffset="['173','173','-135','-112']" data-fontsize="['16','16','15','14']" data-lineheight="['20','20','15','14']" data-fontweight="['700','700','700','700']" data-color="['rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":220,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                            Welcome to Nutricare
-                        </div> -->
-
+                    <!-- <img src="img/coco/banner_cococnut.jpg" alt="" title="mainslider-bg003" width="1920" height="760"  data-no-retina> -->
                         <div class="tp-caption imageTitle main-font tp-resizeme h1Pere px-3" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['30','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                         Coconut Water</div>
 
@@ -132,6 +166,8 @@
                 </ul>
             </div>
         </div>
+    </section>
+
         <!-- END REVOLUTION SLIDER -->
 
         <!--site-main start-->

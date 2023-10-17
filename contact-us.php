@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <link href="css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
 
     <link data-minify="1" rel='stylesheet' id='elementor-post-4638-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/uploads/elementor/css/post-4638.css?ver=1634281325' type='text/css' media='all' />
 
@@ -18,7 +20,25 @@
     <link rel='stylesheet' id='elementor-frontend-css' href='https://freshdelmonte.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1' media='all' />
     <link rel='stylesheet' id='elementor-post-6-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-6.css?ver=1690172129' media='all' />
     <link rel='stylesheet' id='elementor-post-18-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-18.css?ver=1690172952' media='all' />
-
+    <style>
+        .page-title:before {
+            background-image: none !important
+        }
+        @media (max-width: 769px) {
+            .image-overlay-about{
+                width: 100%; display: flex; align-items: center
+            }
+        }
+    
+        @media (max-width: 450px) {
+            .displayInLine{
+                flex-direction: column !important
+            }
+            .displayInLine input{
+                margin-left: -6px 
+            }
+        }
+    </style>
     <style id="wp-custom-css">
         #elementor-popup-modal-2595 .dialog-widget-content {
             background-color: #fedd00 !important;
@@ -798,62 +818,14 @@ z-index: 1001;
 
         <div class="page-content">
             <div data-elementor-type="wp-page" data-elementor-id="18" class="elementor elementor-18" data-elementor-post-type="page">
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-77e442f elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="77e442f" data-element_type="section" id="overview" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[{&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;_id&quot;:&quot;07f57ff&quot;,&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}]}">
-                    <div class="elementor-background-overlay"></div>
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa9d941" data-id="aa9d941" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-2dc7802 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="2dc7802" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container" style="width: 125%;">
-                                        <h1 class="elementor-heading-title elementor-size-default homepageTitle contct-title imageTitle" style="margin-left: -25%">Connect With Us</h1>
-
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-1e0c61f elementor-widget elementor-widget-spacer" data-id="1e0c61f" data-element_type="widget" data-widget_type="spacer.default">
-                                    <div class="elementor-widget-container">
-                                        <style>
-                                            /*! elementor - v3.14.0 - 26-06-2023 */
-                                            .elementor-column .elementor-spacer-inner {
-                                                height: var(--spacer-size)
-                                            }
-
-                                            .e-con {
-                                                --container-widget-width: 100%
-                                            }
-
-                                            .e-con-inner>.elementor-widget-spacer,
-                                            .e-con>.elementor-widget-spacer {
-                                                width: var(--container-widget-width, var(--spacer-size));
-                                                --align-self: var(--container-widget-align-self, initial);
-                                                --flex-shrink: 0
-                                            }
-
-                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container,
-                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,
-                                            .e-con>.elementor-widget-spacer>.elementor-widget-container,
-                                            .e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer {
-                                                height: 100%
-                                            }
-
-                                            .e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,
-                                            .e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner {
-                                                height: var(--container-widget-height, var(--spacer-size))
-                                            }
-                                        </style>
-                                        <div class="elementor-spacer">
-                                            <div class="elementor-spacer-inner"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-3d239ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="3d239ff" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container homepageDesc">
-                                        <p class="homepageBannerDesc" style="color:white; text-align:center;">We want to hear From You</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <section class="page-title img-fluid" style="background-image:url(https://freshdelmonte.com/wp-content/uploads/2022/02/who-we-are-bg-scaled.jpg)">
+                    <div Style="height: 540px"></div>
+                    <div class="image-overlay-about" style="">
+                        <h1 class="imageTitle title">Connect With Us</h1>
+                        <p class="homepageBannerDesc description">We want to hear From You</p>
                     </div>
                 </section>
+               
 
                 <body style="mt-5" class="page-template page-template-elementor_header_footer page page-id-4638 wp-custom-logo wp-embed-responsive theme-bodoni woocommerce-no-js ehf-header ehf-footer ehf-template-bodoni ehf-stylesheet-demo-child woo-variation-swatches wvs-theme-demo-child wvs-theme-child-bodoni wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label chrome woocommerce-active product-style-1 elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-4638">
                     <div id="page" class="hfeed site">
@@ -931,7 +903,7 @@ z-index: 1001;
                                                                         </label>
 
                                                                         <div style="width: inherit">
-                                                                            <div class="d-flex">
+                                                                            <div class="d-flex displayInLine">
 
                                                                                 <div>
                                                                                     <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="msg_type" id="flexRadioDefault1" value="Comment">
