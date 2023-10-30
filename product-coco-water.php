@@ -34,8 +34,10 @@
     <!-- flaticon -->
     <link rel="stylesheet" type="text/css" href="https://themetechmount.com/html/nutricare/css/flaticon.css" />
 
-    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/style.css" rel="stylesheet">
+    <link href="lib/responsive.css" rel="stylesheet">
 
     <!-- REVOLUTION LAYERS STYLES -->
 

@@ -37,8 +37,10 @@
             padding: 0 !important;
         }
     </style>
-    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/style.css" rel="stylesheet">
+    <link href="lib/responsive.css" rel="stylesheet">
     <link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://freshdelmonte.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1' media='all' />
     <link rel='stylesheet' id='jet-menu-hello-css' href='https://freshdelmonte.com/wp-content/plugins/jet-menu/integration/themes/hello-elementor/assets/css/style.css?ver=2.4.0' media='all' />
     <link rel='stylesheet' id='wp-block-library-css' href='https://freshdelmonte.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />

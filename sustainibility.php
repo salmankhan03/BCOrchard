@@ -15,8 +15,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.cdnfonts.com/css/georgia?styles=27676" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/style.css" rel="stylesheet">
+    <link href="lib/responsive.css" rel="stylesheet">
 
 
     <!-- Icon Font Stylesheet -->

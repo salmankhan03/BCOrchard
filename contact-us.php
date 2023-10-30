@@ -6,8 +6,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <link href="css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
-    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+    <!-- <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
+    <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link href="lib/style.css" rel="stylesheet">
+<link href="lib/responsive.css" rel="stylesheet">
 
     <link data-minify="1" rel='stylesheet' id='elementor-post-4638-css' href='https://demo2wpopal.b-cdn.net/bodoni/wp-content/cache/min/1/bodoni/wp-content/uploads/elementor/css/post-4638.css?ver=1634281325' type='text/css' media='all' />
 

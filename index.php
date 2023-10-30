@@ -833,6 +833,9 @@ function setREVStartSize(e) {
     <script type='text/javascript' src='https://singlemalt.qodeinteractive.com/wp-includes/js/wp-util.min.js?ver=5.5.12'
         id='wp-util-js'>
     </script>
+    <script type='text/javascript' src='lib/qodeinteractive1.js'
+        id='wp-util-js'>
+    </script>
     <script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
     /* <![CDATA[ */
     var wc_add_to_cart_variation_params = {
@@ -958,6 +961,9 @@ function setREVStartSize(e) {
     <script type='text/javascript'
         src='https://singlemalt.qodeinteractive.com/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=5.5.12'
         id='qi-addons-for-elementor-elementor-js'></script>
+    <script type='text/javascript'
+    src='lib/qodeinteractive.js'
+    id='qi-addons-for-elementor-elementor-js'></script>
     <script type='text/javascript' id='singlemalt-core-elementor-js-extra'>
     /* <![CDATA[ */
     var qodefElementorGlobal = {
@@ -969,6 +975,10 @@ function setREVStartSize(e) {
     </script>
     <script type='text/javascript'
         src='https://singlemalt.qodeinteractive.com/wp-content/plugins/singlemalt-core/inc/plugins/elementor/assets/js/elementor.js?ver=5.5.12'
+        id='singlemalt-core-elementor-js'></script>
+
+    <script type='text/javascript'
+        src='lib/qodeinteractivejs.js'
         id='singlemalt-core-elementor-js'></script>
 </body>
 

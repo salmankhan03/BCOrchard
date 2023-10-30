@@ -7,7 +7,8 @@
 <!-- Stylesheets -->
 
 <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/4.1.1/css/bootstrap.min.css">
-<link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
+<!-- <link href="http://t.commonsupport.com/care-giver/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"> -->
+<link href="lib/settings.css" rel="stylesheet" type="text/css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -16,9 +17,12 @@
 <link href="
 https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css
 " rel="stylesheet">
-
+<!-- 
 <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
-<link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet">
+<link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+
+<link href="lib/style.css" rel="stylesheet">
+<link href="lib/responsive.css" rel="stylesheet">
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
@@ -136,18 +140,28 @@ https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2/pe-icon-7-stroke/dist/pe-
 	</script>
 
 <!--Scroll to top-->
-<script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script>
+<!-- <script src="http://t.commonsupport.com/care-giver/js/jquery.js"></script> -->
+<script src="lib/jquerycare.js"></script>
+
 <!--Revolution Slider-->
-<script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script> -->
+<script src="lib/revolution.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/revslider@5.4.201-8.6/js/jquery.themepunch.tools.min.js"></script>
-<script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="http://t.commonsupport.com/care-giver/js/main-slider-script.js"></script>
+<script src="lib/layeranimation.js"></script>
+<script src="lib/revolution.extension.navigation.min.js.js"></script>
+<script src="lib/revolution.extension.parallax.min.js"></script>
+<script src="lib/revolution.extension.slideanims.min.js"></script>
+<script src="lib/main-slider-script.js"></script>
+<script src="lib/appear.js"></script>
+<!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script> -->
+<!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script> -->
+<!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script> -->
+<!-- <script src="http://t.commonsupport.com/care-giver/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script> -->
+<!-- <script src="http://t.commonsupport.com/care-giver/js/main-slider-script.js"></script> -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
-<script src="http://t.commonsupport.com/care-giver/js/appear.js"></script>
+<script src="lib/fancybox.js"></script>
+<!-- <script src="http://t.commonsupport.com/care-giver/js/appear.js"></script> -->
 <script src="js/script.js"></script>
 </body>
 </html>
