@@ -9,6 +9,8 @@
     <meta name="description" content="Nutricare – Nutrition Health & Diet Consultancy HTML Template" />
     <meta name="author" content="https://www.themetechmount.com/" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
     <title>Orchard</title>
 
     <!-- favicon icon -->
@@ -123,14 +125,58 @@
             }
         }
 
-        @media (max-width: 990px) {
+        /* @media (max-width: 990px) {
             .homepageBannerDesc  {
                 transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 80, 0, 1) !important;
             }
-        }
+        } */
         .page-title:before {
             background-image: none !important
         }
+
+        @media (max-width: 990px) {
+            .nutriInfoButton  {
+                display: flex;
+                justify-content: center
+            }
+        }
+
+        @media (max-width: 990px) {
+            .mobileViewBox  {
+                margin-top: 50px
+            }
+            .featured-icon-box.style1 {
+                padding: 10px 27px 10px;
+            }
+            .cocoBoxHover{
+                margin: 10px
+            }
+        }
+
+        
+
+        @media (min-width: 900px) {
+            .coco  {
+                transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 18, 0, 0, 1) !important;
+            }
+        }
+
+        @media (max-width: 834px) {
+            .coco  {
+                transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 16, 41, 0, 1) !important;
+                line-height: 150px !important;
+                font-size: 21px !important
+
+            }
+        }
+        @media (max-width: 766px) {
+            .coco  {
+                transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 45, 0, 2) !important;
+                line-height: 90px !important;
+                font-size: 21px !important
+            }
+        }
+
 
     </style>
 
@@ -157,9 +203,12 @@
                         <div class="tp-caption imageTitle main-font tp-resizeme h1Pere px-3" style="color: #fff !important" data-x="['left','left','center','center']" data-hoffset="['30','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['60','60','55','40']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                         Coconut Water</div>
 
-                        <div class="tp-caption homepageBannerDesc tp-resizeme" style="color: #fff !important; font-size: 1.5rem !important;" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['24','24','15','12']" data-lineheight="['140','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        <div class="tp-caption homepageBannerDesc tp-resizeme coco" style="color: #fff !important; font-size: 24px !important;" data-x="['left','left','center','center']" data-hoffset="['30','50','0','0']" data-y="['top','top','middle','middle']" data-voffset="['260','260','-78','-69']" data-fontsize="['24','24','15','12']" data-lineheight="['200','75','68','50']" data-fontweight="['400','400','400','300']"  data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                        Nutritious, Delicious and 100% pure Coconut Water</div>
+
+                        <!-- <div class="tp-caption homepageBannerDesc tp-resizeme" style="color: #fff !important; font-size: 1.5rem !important;" data-x="['left','left','center','center']" data-hoffset="['50','50','-759','-479']" data-y="['top','top','middle','middle']" data-voffset="['300','300','10','-2']" data-fontsize="['24','24','15','12']" data-lineheight="['140','29','24','20']" data-fontweight="['400','400','400','300']" data-width="none" data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                             Nutritious, Delicious and 100% pure Coconut Water
-                        </div>
+                        </div> -->
 
 
                     </li>
@@ -180,7 +229,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="mt_60 mlr-15 res-991-m-0 mb-20" style="box-shadow: 0 0 10px 0 rgb(43 52 59 / 5%);">
-                                <div class="row row-equal-height ttm-bgcolor-white box-shadow1" style="box-shadow: 0 0 10px 0 rgb(43 52 59 / 5%);">
+                                <div class="row row-equal-height ttm-bgcolor-white box-shadow1 mobileViewBox" style="box-shadow: 0 0 10px 0 rgb(43 52 59 / 5%);">
                                     <div class="col-lg-3 col-md-12 col-sm-12 cocoBoxHover" >
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box style1 top-icon text-center">
@@ -284,7 +333,8 @@
 
                                 <!-- row-->
                                 <div class="row d-flex align-items-center pt-4">
-                                <button class="juiceButton ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button>
+                                    <div class="nutriInfoButton w-100">
+                                <button class="juiceButton ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-color-white ttm-btn-bgcolor-skincolor mb-20 " id="openModalBtn" href="#">Nutritional Information</button></div>
                                     <div class="col-md-4 col-sm-4">
 
 

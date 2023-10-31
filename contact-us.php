@@ -8,6 +8,8 @@
     <link href="css/style.css" rel="stylesheet">
     <!-- <link href="http://t.commonsupport.com/care-giver/css/style.css" rel="stylesheet">
     <link href="http://t.commonsupport.com/care-giver/css/responsive.css" rel="stylesheet"> -->
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
     <link href="lib/style.css" rel="stylesheet">
 <link href="lib/responsive.css" rel="stylesheet">
 
@@ -809,6 +811,16 @@ z-index: 1001;
             margin-top: 10px !important;
             margin-right: 75px;
         }
+
+        @media (max-width: 990px) {
+            .radioButtonRemoveLeft  {
+                margin-left: unset !important
+            }
+            .radioBtnLbm {
+                margin-top: 12px !important;
+            }
+        }
+        
     </style>
 </head>
 
@@ -909,7 +921,7 @@ z-index: 1001;
 
                                                                                 <div>
                                                                                     <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="msg_type" id="flexRadioDefault1" value="Comment">
-                                                                                    <label class="form-check-label radioBtnLbm" style="margin-left: 10px" for="flexRadioDefault1">
+                                                                                    <label class="form-check-label radioBtnLbm radioButtonRemoveLeft" style="margin-left: 10px" for="flexRadioDefault1">
                                                                                         Comment
                                                                                     </label>
                                                                                 </div>
