@@ -360,14 +360,6 @@ dataLayer.push(dataLayer_content); //]]>
     }
     </style>
 </noscript>
-<meta name="generator"
-    content="Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-32x32.jpg"
-    sizes="32x32" />
-<link rel="icon" href="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-192x192.jpg"
-    sizes="192x192" />
-<link rel="apple-touch-icon"
-    href="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-180x180.jpg" />
 <script type="text/javascript">
 function setREVStartSize(e) {
     //window.requestAnimationFrame(function() {
@@ -732,9 +724,7 @@ function setREVStartSize(e) {
 
 
         <?php include 'footer.php'; ?>
-    <script type="text/javascript">
-    var sbiajaxurl = "https://singlemalt.qodeinteractive.com/wp-admin/admin-ajax.php";
-    </script>
+
 
 
     <script type='text/javascript'
