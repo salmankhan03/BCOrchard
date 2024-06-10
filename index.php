@@ -115,7 +115,7 @@
 <script>
 document.documentElement.className = document.documentElement.className + ' yes-js js_active js'
 </script>
-<title>Craft Beer &#8211; SingleMalt</title>
+<title>Orchard</title>
 
 <script data-cfasync="false" data-pagespeed-no-defer>
 //<![CDATA[
@@ -127,20 +127,9 @@ var dataLayer = dataLayer || [];
 <link rel='dns-prefetch' href='//static.zdassets.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="SingleMalt &raquo; Feed"
-    href="https://singlemalt.qodeinteractive.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="SingleMalt &raquo; Comments Feed"
-    href="https://singlemalt.qodeinteractive.com/comments/feed/" />
+
 <script type="text/javascript">
-window._wpemojiSettings = {
-    "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/",
-    "ext": ".png",
-    "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/",
-    "svgExt": ".svg",
-    "source": {
-        "concatemoji": "https:\/\/singlemalt.qodeinteractive.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.12"
-    }
-};
+
 ! function(e, a, t) {
     var n, r, o, i = a.createElement("canvas"),
         p = i.getContext && i.getContext("2d");
@@ -205,18 +194,6 @@ img.emoji {
     padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='sb_instagram_styles-css'
-    href='https://singlemalt.qodeinteractive.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.5'
-    type='text/css' media='all' />
-<link rel='stylesheet' id='dripicons-css'
-    href='https://singlemalt.qodeinteractive.com/wp-content/plugins/singlemalt-core/inc/icons/dripicons/assets/css/dripicons.min.css?ver=5.5.12'
-    type='text/css' media='all' />
-<link rel='stylesheet' id='elegant-icons-css'
-    href='https://singlemalt.qodeinteractive.com/wp-content/plugins/singlemalt-core/inc/icons/elegant-icons/assets/css/elegant-icons.min.css?ver=5.5.12'
-    type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'
-    href='https://singlemalt.qodeinteractive.com/wp-content/plugins/singlemalt-core/inc/icons/font-awesome/assets/css/all.min.css?ver=5.5.12'
-    type='text/css' media='all' />
 <style id='font-awesome-inline-css' type='text/css'>
 [data-font="FontAwesome"]:before {
     font-family: 'FontAwesome' !important;
@@ -349,21 +326,6 @@ img.emoji {
     href="https://singlemalt.qodeinteractive.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsinglemalt.qodeinteractive.com%2Fcraft-beer%2F&#038;format=xml" />
 
 
-<meta property='og:site_name' content='SingleMalt' />
-<meta property='og:url' content='https://singlemalt.qodeinteractive.com' />
-<meta property='og:locale' content='en_US' />
-<meta property='og:description' content='Drink Store Theme' />
-<meta property='og:title' content='SingleMalt' />
-<meta property='og:type' content='website' />
-<meta property='og:image' content='https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/Opengraph.jpg' />
-<meta property='og:image:width' content='1200' />
-<meta property='og:image:height' content='630' />
-<meta name='twitter:card' content='summary' />
-<meta name='twitter:title' content='SingleMalt' />
-<meta name='twitter:image' content='https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/Opengraph.jpg' />
-<meta name='twitter:description' content='Drink Store Theme' />
-
-
 <script data-cfasync="false" data-pagespeed-no-defer>
 //<![CDATA[
 var dataLayer_content = {
@@ -406,8 +368,6 @@ dataLayer.push(dataLayer_content); //]]>
     sizes="192x192" />
 <link rel="apple-touch-icon"
     href="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-180x180.jpg" />
-<meta name="msapplication-TileImage"
-    content="https://singlemalt.qodeinteractive.com/wp-content/uploads/2020/10/cropped-favicon-1-270x270.jpg" />
 <script type="text/javascript">
 function setREVStartSize(e) {
     //window.requestAnimationFrame(function() {
