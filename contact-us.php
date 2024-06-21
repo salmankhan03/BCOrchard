@@ -927,19 +927,19 @@ z-index: 1001;
                                                                         <div style="width: inherit">
                                                                             <div class="d-flex displayInLine">
 
-                                                                                <div>
-                                                                                    <input class="form-check-input radioBtn" style="margin-left: -6px" type="radio" name="msg_type" id="flexRadioDefault1" value="Comment">
-                                                                                    <label class="form-check-label radioBtnLbm radioButtonRemoveLeft" style="margin-left: 10px" for="flexRadioDefault1">
+                                                                                <div class="d-flex" style="display: flex">
+                                                                                    <input class="form-check-input radioBtn" type="radio" name="msg_type" id="flexRadioDefault1" value="Comment">
+                                                                                    <label class="form-check-label radioBtnLbm radioButtonRemoveLeft" for="flexRadioDefault1">
                                                                                         Comment
                                                                                     </label>
                                                                                 </div>
-                                                                                <div>
+                                                                                <div style="display: flex">
                                                                                     <input class="form-check-input radioBtn" type="radio" name="msg_type" id="flexRadioDefault1" value="Inquiry">
                                                                                     <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
                                                                                         Inquiry
                                                                                     </label>
                                                                                 </div>
-                                                                                <div>
+                                                                                <div style="display: flex">
                                                                                     <input class="form-check-input radioBtn" type="radio" name="msg_type" id="flexRadioDefault1" value="Concern">
                                                                                     <label class="form-check-label radioBtnLbm" for="flexRadioDefault1">
                                                                                         Concern
