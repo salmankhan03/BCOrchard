@@ -43,10 +43,11 @@ li>ul {
 
 .main-menu .navigation > li > ul > li {
   position: relative;
-  width: 100%;
   padding: 0 25px;
+  width: auto !important;
   border-bottom: 1px solid #d8d8d8 !important;
 }
+
 
 .main-menu .navigation > li.dropdown:hover > ul {
   border-top: 3px solid #9dca00;
@@ -492,3 +493,4 @@ body, html {
   text-transform: uppercase;
   letter-spacing: .2em;
 }
+

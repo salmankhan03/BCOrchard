@@ -22,8 +22,16 @@
     <title>Orchard</title>
 
     <link rel='stylesheet' id='elementor-frontend-css' href='https://freshdelmonte.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1' media='all' />
-    <link rel='stylesheet' id='elementor-post-6-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-6.css?ver=1690172129' media='all' />
-    <link rel='stylesheet' id='elementor-post-18-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-18.css?ver=1690172952' media='all' />
+   <link rel='stylesheet' id='elementor-post-18-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-18.css?ver=1690172952' media='all' />
+     <style>
+               .navbar-header {
+                   display: none !important
+               }
+               .imageTitle {
+                   color: #fff !important;
+               }
+           </style>
+
     <style>
         .page-title:before {
             background-image: none !important

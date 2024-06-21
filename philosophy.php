@@ -393,10 +393,24 @@
         }
     </style>
     <link rel='stylesheet' id='elementor-frontend-css' href='https://freshdelmonte.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1' media='all' />
-    <link rel='stylesheet' id='elementor-post-6-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-6.css?ver=1690172129' media='all' />
+   
     <link rel='stylesheet' id='swiper-css' href='https://freshdelmonte.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-post-2321-css' href='https://freshdelmonte.com/wp-content/uploads/elementor/css/post-2321.css?ver=1690173340' media='all' />
     <link rel='stylesheet' id='hello-elementor-child-style-css' href='css/philosophy.css' media='all' />
+    <style>
+        .navbar-header {
+            display: none !important
+        }
+        .imageTitle {
+            color: #fff !important;
+        }
+        @media (max-width: 767px) {
+                    .description {
+                        font-size: 22px !important;
+                    }
+                }
+
+    </style>
     <style id="wp-custom-css">
         #elementor-popup-modal-2595 .dialog-widget-content {
             background-color: #fedd00 !important;
@@ -1362,7 +1376,7 @@ z-index: 1001;
                     <p class="homepageBannerDesc description"> Delivering the freshness You deserve</p>
                 </div>
             </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-16c606a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16c606a" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[{&quot;_id&quot;:&quot;ecd83db&quot;,&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}],&quot;background_background&quot;:&quot;classic&quot;}">
+                <section style="background-color: #f5f5f5" class="elementor-section elementor-top-section elementor-element elementor-element-16c606a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16c606a" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[{&quot;_id&quot;:&quot;ecd83db&quot;,&quot;jet_parallax_layout_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;jet_parallax_layout_speed&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;jet_parallax_layout_type&quot;:&quot;scroll&quot;,&quot;jet_parallax_layout_direction&quot;:null,&quot;jet_parallax_layout_fx_direction&quot;:null,&quot;jet_parallax_layout_z_index&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x&quot;:50,&quot;jet_parallax_layout_bg_x_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_x_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y&quot;:50,&quot;jet_parallax_layout_bg_y_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_y_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size&quot;:&quot;auto&quot;,&quot;jet_parallax_layout_bg_size_tablet&quot;:&quot;&quot;,&quot;jet_parallax_layout_bg_size_mobile&quot;:&quot;&quot;,&quot;jet_parallax_layout_animation_prop&quot;:&quot;transform&quot;,&quot;jet_parallax_layout_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;]}],&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="elementor-container elementor-column-gap-default">
 
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -1404,9 +1418,9 @@ z-index: 1001;
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center  elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="d207a17" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container text-center">
-                                                        <h4 class="homepageTitle elementor-size-default">
+                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
                                                             To inspire healthy lifestyle by providing</h4>
-                                                        <h4 class="homepageTitle elementor-size-default">
+                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
                                                             the freshest and finest products to everyone</h4>
                                                     </div>
                                                 </div>
@@ -1483,9 +1497,9 @@ z-index: 1001;
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="da5b477" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <h4 class="homepageTitle text-center elementor-size-default">
+                                                        <h4 class="homepageTitle text-center elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
                                                         To be the leading provider of premium quality,</h4>
-                                                        <h4 class="homepageTitle text-center elementor-size-default mb-4">
+                                                        <h4 class="homepageTitle text-center elementor-size-default mb-4 description"  style="font-size: 26px; font-weight: 700;">
                                                         natural products in British Columbia and beyond.</h4>
                                                         <p class="homepageDesc pereDesc" style="color: #555 !important; padding: 10px" >We envision a future where individuals can enjoy flavorful drinks and snacks
                                                             that not only satisfy their taste buds but also align with their health-conscious lifestyles.
