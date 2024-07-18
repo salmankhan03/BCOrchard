@@ -1418,9 +1418,9 @@ z-index: 1001;
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center  elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="d207a17" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container text-center">
-                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
+                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700; text-align: center">
                                                             To inspire healthy lifestyle by providing</h4>
-                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
+                                                        <h4 class="homepageTitle elementor-size-default description"  style="font-size: 26px; font-weight: 700; text-align: center">
                                                             the freshest and finest products to everyone</h4>
                                                     </div>
                                                 </div>
@@ -1497,9 +1497,9 @@ z-index: 1001;
                                                 </div>
                                                 <div class="elementor-element d-flex justify-content-center elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="da5b477" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <h4 class="homepageTitle text-center elementor-size-default description"  style="font-size: 26px; font-weight: 700;">
+                                                        <h4 class="homepageTitle text-center elementor-size-default description"  style="font-size: 26px; font-weight: 700; text-align: center">
                                                         To be the leading provider of premium quality,</h4>
-                                                        <h4 class="homepageTitle text-center elementor-size-default mb-4 description"  style="font-size: 26px; font-weight: 700;">
+                                                        <h4 class="homepageTitle text-center elementor-size-default mb-4 description"  style="font-size: 26px; font-weight: 700; text-align: center">
                                                         natural products in British Columbia and beyond.</h4>
                                                         <p class="homepageDesc pereDesc" style="color: #555 !important; padding: 10px" >We envision a future where individuals can enjoy flavorful drinks and snacks
                                                             that not only satisfy their taste buds but also align with their health-conscious lifestyles.

@@ -516,6 +516,22 @@ function setREVStartSize(e) {
                                                                                                 srcset="img/masonry-img-2.jpg 500w, img/masonry-img-2-300x300.jpg 300w, img/masonry-img-2-100x100.jpg 100w, img/masonry-img-2-150x150.jpg 150w"
                                                                                                 sizes="(max-width: 500px) 100vw, 500px" />
                                                                                         </div>
+                                                                                        <div class="qodef-e-content">
+                                                                                            <div itemprop="description"
+                                                                                                class="qodef-e-text">
+                                                                                                <div
+                                                                                                    class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  ">
+                                                                                                    <h2 class="homepageTitle"
+                                                                                                        style="color: #FFFFFF; margin: 0% 0% 3.3% 0%">
+                                                                                                        No Added Sugar,
+                                                                                                    </h2>
+                                                                                                    <h2 class="homepageTitle"
+                                                                                                        style="color: #FFFFFF; margin: 0% 0% 3.3% 0%">
+                                                                                                        Nothing but Coconut Water
+                                                                                                    </h2>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div

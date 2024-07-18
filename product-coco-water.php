@@ -432,9 +432,9 @@
                                 <div class="section-title mb-30 clearfix d-flex align-center flex-column ">
                                     <!-- section title -->
                                     <div class="title-header">
-                                        <h4 class="homepageTitle description text-white" style="font-weight:600">Specifically designed 200 mL carton, making it easy to drink from and convenient for on the run lifestyles</h4>
+                                        <h4 class="homepageTitle description text-white" style="font-weight:600">Specifically designed 250 mL carton, making it easy to drink from and convenient for on the run lifestyles</h4>
                                     </div>
-                                    <div class="pereDesc homepageDesc text-white pt-4" style="font-weight:500; line-height: 1.6em;">200 mL is the most fluid that the average human can absorb in an hour, excess liquid along with the nutrients is wasted</div>
+                                    <div class="pereDesc homepageDesc text-white pt-4" style="font-weight:500; line-height: 1.6em;">250 mL is the most fluid that the average human can absorb in an hour, excess liquid along with the nutrients is wasted</div>
                                 </div><!-- section title end -->
                             </div>
                         </div>
